@@ -1,0 +1,366 @@
+nutrition_id,meal_category,total_calories,protein_g,carbs_g,fat_g,is_high_protein,is_poultry,is_vegetarian
+1,Vegetarian,1432,76,138,64,0,0,1
+2,Vegetarian,1500,86,217,32,0,0,1
+3,Mixed Protein,2036,120,254,60,0,0,0
+4,Vegetarian,1885,74,224,77,0,0,1
+5,Cheat Day,2070,118,206,86,0,0,0
+6,Mixed Protein,1955,170,195,55,1,0,0
+7,Batch-cooked Poultry,2131,170,158,91,1,1,0
+8,Mixed Protein,1759,156,196,39,1,0,0
+9,Mixed Protein,2145,173,262,45,1,0,0
+10,Batch-cooked Poultry,2124,148,194,84,0,1,0
+11,Batch-cooked Poultry,2107,140,155,103,0,1,0
+12,Vegetarian,1739,82,175,79,0,0,1
+13,Mixed Protein,2049,147,210,69,0,0,0
+14,Cheat Day,1450,114,181,30,0,0,0
+15,Batch-cooked Poultry,2006,210,224,30,1,1,0
+16,Batch-cooked Poultry,2324,193,226,72,1,1,0
+17,High-Carb Refuel,2190,164,244,62,1,0,0
+18,High-Carb Refuel,1963,114,271,47,0,0,0
+19,Batch-cooked Poultry,2415,195,249,71,1,1,0
+20,Batch-cooked Poultry,2056,199,153,72,1,1,0
+21,Batch-cooked Poultry,2100,173,154,88,1,1,0
+22,Mixed Protein,1972,135,196,72,0,0,0
+23,Mixed Protein,2182,157,177,94,1,0,0
+24,Batch-cooked Poultry,1898,174,143,70,1,1,0
+25,Batch-cooked Poultry,1959,162,177,67,1,1,0
+26,Mixed Protein,2139,154,176,91,1,0,0
+27,Cheat Day,1442,82,166,50,0,0,0
+28,Vegetarian,2210,85,184,126,0,0,1
+29,Mixed Protein,2317,148,258,77,0,0,0
+30,Batch-cooked Poultry,2269,185,209,77,1,1,0
+31,Batch-cooked Poultry,2796,196,323,80,1,1,0
+32,Batch-cooked Poultry,2583,197,208,107,1,1,0
+33,High-Carb Refuel,1945,110,185,85,0,0,0
+34,High-Carb Refuel,1617,121,200,37,0,0,0
+35,Cheat Day,1998,67,212,98,0,0,0
+36,Cheat Day,1875,106,221,63,0,0,0
+37,Cheat Day,2312,113,303,72,0,0,0
+38,Cheat Day,1400,94,157,44,0,0,0
+39,Batch-cooked Poultry,2432,186,242,80,1,1,0
+40,Batch-cooked Poultry,2048,176,210,56,1,1,0
+41,Mixed Protein,1728,149,121,72,0,0,0
+42,Vegetarian,2052,131,238,64,0,0,1
+43,Batch-cooked Poultry,2636,153,263,108,1,1,0
+44,High-Carb Refuel,2009,100,157,109,0,0,0
+45,Vegetarian,1778,88,199,70,0,0,1
+46,Mixed Protein,1547,114,113,71,0,0,0
+47,Batch-cooked Poultry,1870,191,137,62,1,1,0
+48,Batch-cooked Poultry,2516,170,252,92,1,1,0
+49,Batch-cooked Poultry,1959,172,176,63,1,1,0
+50,High-Carb Refuel,1653,132,144,61,0,0,0
+51,Vegetarian,1981,84,211,89,0,0,1
+52,Vegetarian,1555,83,173,59,0,0,1
+53,Batch-cooked Poultry,2025,175,176,69,1,1,0
+54,Mixed Protein,1974,172,236,38,1,0,0
+55,Mixed Protein,1732,103,141,84,0,0,0
+56,High-Carb Refuel,2092,126,154,108,0,0,0
+57,High-Carb Refuel,2160,144,207,84,0,0,0
+58,Batch-cooked Poultry,2619,184,248,99,1,1,0
+59,Cheat Day,1849,82,261,53,0,0,0
+60,Batch-cooked Poultry,2002,168,166,74,1,1,0
+61,High-Carb Refuel,1891,112,246,51,0,0,0
+62,Batch-cooked Poultry,2017,198,160,65,1,1,0
+63,Batch-cooked Poultry,2713,196,291,85,1,1,0
+64,High-Carb Refuel,1816,149,143,72,0,0,0
+65,Batch-cooked Poultry,2285,213,266,41,1,1,0
+66,Mixed Protein,1731,169,167,43,1,0,0
+67,Mixed Protein,2178,150,300,42,0,0,0
+68,Batch-cooked Poultry,2315,172,229,79,1,1,0
+69,Vegetarian,2083,122,149,111,0,0,1
+70,High-Carb Refuel,2025,115,173,97,0,0,0
+71,High-Carb Refuel,1712,117,239,32,0,0,0
+72,Mixed Protein,2538,162,252,98,1,0,0
+73,Mixed Protein,2056,120,196,88,0,0,0
+74,Batch-cooked Poultry,1991,208,202,39,1,1,0
+75,Batch-cooked Poultry,2079,141,237,63,0,1,0
+76,Batch-cooked Poultry,2219,144,206,91,0,1,0
+77,Cheat Day,1509,60,135,81,0,0,0
+78,High-Carb Refuel,1495,118,159,43,0,0,0
+79,High-Carb Refuel,2038,114,211,82,0,0,0
+80,Mixed Protein,2010,175,260,30,1,0,0
+81,Mixed Protein,2345,160,280,65,1,0,0
+82,Mixed Protein,2348,142,238,92,0,0,0
+83,Mixed Protein,2066,145,214,70,0,0,0
+84,Mixed Protein,1960,118,237,60,0,0,0
+85,Batch-cooked Poultry,2151,176,166,87,1,1,0
+86,Batch-cooked Poultry,2277,177,192,89,1,1,0
+87,Cheat Day,1864,92,158,96,0,0,0
+88,Mixed Protein,1939,152,137,87,1,0,0
+89,Cheat Day,1947,66,216,91,0,0,0
+90,Batch-cooked Poultry,2204,153,209,84,1,1,0
+91,Vegetarian,1851,60,234,75,0,0,1
+92,Batch-cooked Poultry,2191,161,227,71,1,1,0
+93,Batch-cooked Poultry,2093,165,212,65,1,1,0
+94,Batch-cooked Poultry,2057,186,227,45,1,1,0
+95,Batch-cooked Poultry,1810,143,197,50,0,1,0
+96,Cheat Day,1772,79,220,64,0,0,0
+97,Mixed Protein,1938,155,163,74,1,0,0
+98,Vegetarian,2162,102,218,98,0,0,1
+99,Mixed Protein,2145,148,233,69,0,0,0
+100,Mixed Protein,1946,118,166,90,0,0,0
+101,Mixed Protein,2235,152,202,91,1,0,0
+102,Batch-cooked Poultry,1773,129,168,65,0,1,0
+103,Cheat Day,1841,105,173,81,0,0,0
+104,High-Carb Refuel,1505,87,143,65,0,0,0
+105,Vegetarian,2368,113,263,96,0,0,1
+106,Mixed Protein,2378,157,253,82,1,0,0
+107,Batch-cooked Poultry,2090,193,226,46,1,1,0
+108,Cheat Day,2173,81,298,73,0,0,0
+109,Mixed Protein,2154,119,190,102,0,0,0
+110,Batch-cooked Poultry,2718,180,351,66,1,1,0
+111,Mixed Protein,2010,139,188,78,0,0,0
+112,High-Carb Refuel,1932,91,212,80,0,0,0
+113,Vegetarian,1469,77,180,49,0,0,1
+114,High-Carb Refuel,2180,147,218,80,0,0,0
+115,High-Carb Refuel,1762,105,241,42,0,0,0
+116,Batch-cooked Poultry,2025,184,194,57,1,1,0
+117,Cheat Day,2415,111,288,91,0,0,0
+118,Mixed Protein,2205,167,211,77,1,0,0
+119,Vegetarian,1863,111,213,63,0,0,1
+120,Batch-cooked Poultry,2078,190,154,78,1,1,0
+121,Cheat Day,1844,88,220,68,0,0,0
+122,Batch-cooked Poultry,2130,182,193,70,1,1,0
+123,Batch-cooked Poultry,2219,199,169,83,1,1,0
+124,Mixed Protein,1771,158,161,55,1,0,0
+125,Batch-cooked Poultry,2614,163,333,70,1,1,0
+126,Batch-cooked Poultry,2119,202,186,63,1,1,0
+127,Vegetarian,1278,107,127,38,0,0,1
+128,Mixed Protein,1735,154,165,51,1,0,0
+129,Cheat Day,2109,103,197,101,0,0,0
+130,Mixed Protein,2161,140,227,77,0,0,0
+131,Vegetarian,1691,99,227,43,0,0,1
+132,Mixed Protein,1695,103,233,39,0,0,0
+133,Vegetarian,1655,96,167,67,0,0,1
+134,Vegetarian,2149,93,217,101,0,0,1
+135,Mixed Protein,1778,140,156,66,0,0,0
+136,Cheat Day,1968,107,169,96,0,0,0
+137,Mixed Protein,1989,170,154,77,1,0,0
+138,Batch-cooked Poultry,1927,164,140,79,1,1,0
+139,Vegetarian,1695,74,253,43,0,0,1
+140,High-Carb Refuel,2252,131,234,88,0,0,0
+141,Batch-cooked Poultry,2239,170,248,63,1,1,0
+142,Mixed Protein,2175,147,201,87,0,0,0
+143,High-Carb Refuel,1973,136,238,53,0,0,0
+144,Vegetarian,1533,108,111,73,0,0,1
+145,Cheat Day,1993,82,243,77,0,0,0
+146,Mixed Protein,1982,139,208,66,0,0,0
+147,Vegetarian,2038,103,231,78,0,0,1
+148,Mixed Protein,1944,123,219,64,0,0,0
+149,Cheat Day,1429,79,150,57,0,0,0
+150,Mixed Protein,1906,122,125,102,0,0,0
+151,Vegetarian,1826,90,164,90,0,0,1
+152,Mixed Protein,2150,188,228,54,1,0,0
+153,Vegetarian,2101,109,234,81,0,0,1
+154,Vegetarian,1431,103,131,55,0,0,1
+155,Mixed Protein,1538,131,150,46,0,0,0
+156,Cheat Day,1874,103,163,90,0,0,0
+157,Mixed Protein,1647,151,182,35,1,0,0
+158,Vegetarian,1720,101,131,88,0,0,1
+159,Mixed Protein,1680,148,128,64,0,0,0
+160,Mixed Protein,1813,149,158,65,0,0,0
+161,Mixed Protein,2098,145,204,78,0,0,0
+162,Batch-cooked Poultry,2125,209,140,81,1,1,0
+163,Batch-cooked Poultry,2069,204,194,53,1,1,0
+164,Vegetarian,2184,105,252,84,0,0,1
+165,Vegetarian,1444,65,134,72,0,0,1
+166,Vegetarian,1492,85,189,44,0,0,1
+167,Batch-cooked Poultry,2206,152,251,66,1,1,0
+168,Mixed Protein,2197,152,179,97,1,0,0
+169,Batch-cooked Poultry,2379,192,171,103,1,1,0
+170,High-Carb Refuel,2232,111,258,84,0,0,0
+171,High-Carb Refuel,1654,126,184,46,0,0,0
+172,Batch-cooked Poultry,2491,190,255,79,1,1,0
+173,Vegetarian,2083,104,221,87,0,0,1
+174,Batch-cooked Poultry,2320,209,182,84,1,1,0
+175,Batch-cooked Poultry,2165,127,223,85,0,1,0
+176,Batch-cooked Poultry,2269,178,216,77,1,1,0
+177,Batch-cooked Poultry,2340,181,251,68,1,1,0
+178,Vegetarian,1637,109,172,57,0,0,1
+179,Cheat Day,1372,69,202,32,0,0,0
+180,Batch-cooked Poultry,2304,209,196,76,1,1,0
+181,Mixed Protein,2141,136,235,73,0,0,0
+182,Vegetarian,1737,104,148,81,0,0,1
+183,Cheat Day,1823,109,250,43,0,0,0
+184,Vegetarian,2074,111,223,82,0,0,1
+185,Batch-cooked Poultry,2391,214,134,111,1,1,0
+186,Vegetarian,2011,83,260,71,0,0,1
+187,Mixed Protein,2372,129,311,68,0,0,0
+188,Cheat Day,1976,73,250,76,0,0,0
+189,Mixed Protein,2578,126,271,110,0,0,0
+190,Vegetarian,1833,144,204,49,0,0,1
+191,Batch-cooked Poultry,1854,181,116,74,1,1,0
+192,Mixed Protein,1426,128,107,54,0,0,0
+193,High-Carb Refuel,1943,141,212,59,0,0,0
+194,Vegetarian,1705,101,170,69,0,0,1
+195,Mixed Protein,1980,125,154,96,0,0,0
+196,Cheat Day,2034,74,196,106,0,0,0
+197,High-Carb Refuel,2058,109,230,78,0,0,0
+198,Mixed Protein,1890,206,127,62,1,0,0
+199,Mixed Protein,2339,140,177,119,0,0,0
+200,Mixed Protein,2253,151,275,61,1,0,0
+201,Vegetarian,1570,116,146,58,0,0,1
+202,Mixed Protein,2014,184,243,34,1,0,0
+203,Batch-cooked Poultry,2353,195,175,97,1,1,0
+204,Cheat Day,1949,60,227,89,0,0,0
+205,Cheat Day,2382,76,254,118,0,0,0
+206,High-Carb Refuel,1834,127,237,42,0,0,0
+207,Cheat Day,2111,60,245,99,0,0,0
+208,Vegetarian,1547,85,142,71,0,0,1
+209,High-Carb Refuel,2222,107,255,86,0,0,0
+210,High-Carb Refuel,1577,154,157,37,1,0,0
+211,Mixed Protein,2143,101,212,99,0,0,0
+212,Mixed Protein,2133,130,212,85,0,0,0
+213,Batch-cooked Poultry,2257,185,224,69,1,1,0
+214,Vegetarian,1994,98,216,82,0,0,1
+215,Batch-cooked Poultry,1834,180,157,54,1,1,0
+216,Batch-cooked Poultry,1818,192,132,58,1,1,0
+217,Vegetarian,1824,78,243,60,0,0,1
+218,Mixed Protein,1804,170,209,32,1,0,0
+219,Batch-cooked Poultry,2475,166,257,87,1,1,0
+220,High-Carb Refuel,2245,155,197,93,1,0,0
+221,High-Carb Refuel,1471,115,129,55,0,0,0
+222,Batch-cooked Poultry,2468,198,248,76,1,1,0
+223,Batch-cooked Poultry,2096,199,181,64,1,1,0
+224,Mixed Protein,2124,143,217,76,0,0,0
+225,High-Carb Refuel,1653,118,167,57,0,0,0
+226,High-Carb Refuel,2044,112,282,52,0,0,0
+227,Batch-cooked Poultry,2051,152,156,91,1,1,0
+228,High-Carb Refuel,1780,109,183,68,0,0,0
+229,Batch-cooked Poultry,2542,183,205,110,1,1,0
+230,Mixed Protein,1842,158,145,70,1,0,0
+231,Cheat Day,1687,91,216,51,0,0,0
+232,Batch-cooked Poultry,2606,160,280,94,1,1,0
+233,Batch-cooked Poultry,2266,207,175,82,1,1,0
+234,Mixed Protein,2076,111,219,84,0,0,0
+235,Vegetarian,1469,78,80,93,0,0,1
+236,Cheat Day,1736,110,198,56,0,0,0
+237,Cheat Day,1655,79,184,67,0,0,0
+238,Batch-cooked Poultry,1958,182,159,66,1,1,0
+239,Batch-cooked Poultry,2172,190,254,44,1,1,0
+240,High-Carb Refuel,1820,128,183,64,0,0,0
+241,Batch-cooked Poultry,2488,215,191,96,1,1,0
+242,High-Carb Refuel,1930,135,181,74,0,0,0
+243,Vegetarian,1171,92,104,43,0,0,1
+244,Batch-cooked Poultry,1626,178,143,38,1,1,0
+245,High-Carb Refuel,2371,113,248,103,0,0,0
+246,Batch-cooked Poultry,1716,182,94,68,1,1,0
+247,Mixed Protein,1793,159,161,57,1,0,0
+248,Vegetarian,1556,65,180,64,0,0,1
+249,Mixed Protein,1936,107,287,40,0,0,0
+250,Vegetarian,2222,97,238,98,0,0,1
+251,Vegetarian,1606,90,172,62,0,0,1
+252,Cheat Day,2209,69,265,97,0,0,0
+253,Cheat Day,1719,108,162,71,0,0,0
+254,Mixed Protein,2534,163,250,98,1,0,0
+255,Batch-cooked Poultry,1883,170,132,75,1,1,0
+256,Vegetarian,2115,80,253,87,0,0,1
+257,Cheat Day,1780,77,179,84,0,0,0
+258,Mixed Protein,1910,145,148,82,0,0,0
+259,Mixed Protein,2096,164,189,76,1,0,0
+260,Mixed Protein,2041,151,213,65,1,0,0
+261,Batch-cooked Poultry,2300,157,175,108,1,1,0
+262,Vegetarian,1747,95,227,51,0,0,1
+263,Mixed Protein,1954,161,170,70,1,0,0
+264,High-Carb Refuel,1958,101,231,70,0,0,0
+265,High-Carb Refuel,2086,124,222,78,0,0,0
+266,High-Carb Refuel,1845,128,196,61,0,0,0
+267,Mixed Protein,2108,179,177,76,1,0,0
+268,Mixed Protein,1946,131,207,66,0,0,0
+269,Vegetarian,1626,94,227,38,0,0,1
+270,High-Carb Refuel,2370,132,303,70,0,0,0
+271,Mixed Protein,2075,167,246,47,1,0,0
+272,High-Carb Refuel,1799,123,248,35,0,0,0
+273,Batch-cooked Poultry,2940,219,354,72,1,1,0
+274,High-Carb Refuel,2119,127,225,79,0,0,0
+275,Batch-cooked Poultry,2400,196,224,80,1,1,0
+276,Batch-cooked Poultry,2417,187,235,81,1,1,0
+277,Mixed Protein,1443,142,149,31,0,0,0
+278,Batch-cooked Poultry,1886,200,177,42,1,1,0
+279,Batch-cooked Poultry,2349,168,174,109,1,1,0
+280,Batch-cooked Poultry,2177,202,232,49,1,1,0
+281,Mixed Protein,2078,144,191,82,0,0,0
+282,High-Carb Refuel,1832,126,206,56,0,0,0
+283,Batch-cooked Poultry,2407,188,254,71,1,1,0
+284,Vegetarian,1889,101,243,57,0,0,1
+285,High-Carb Refuel,1977,121,191,81,0,0,0
+286,Batch-cooked Poultry,2000,172,166,72,1,1,0
+287,Batch-cooked Poultry,2225,163,256,61,1,1,0
+288,High-Carb Refuel,1912,132,238,48,0,0,0
+289,High-Carb Refuel,1563,103,119,75,0,0,0
+290,Mixed Protein,1653,128,184,45,0,0,0
+291,High-Carb Refuel,2050,129,208,78,0,0,0
+292,Batch-cooked Poultry,2846,199,238,122,1,1,0
+293,Mixed Protein,2473,155,245,97,1,0,0
+294,Vegetarian,2048,109,214,84,0,0,1
+295,Batch-cooked Poultry,2216,172,229,68,1,1,0
+296,High-Carb Refuel,1591,125,203,31,0,0,0
+297,Mixed Protein,1619,142,166,43,0,0,0
+298,High-Carb Refuel,2159,140,186,95,0,0,0
+299,Mixed Protein,1954,167,200,54,1,0,0
+300,Mixed Protein,1848,138,198,56,0,0,0
+301,Batch-cooked Poultry,1750,184,105,66,1,1,0
+302,Batch-cooked Poultry,2048,224,180,48,1,1,0
+303,High-Carb Refuel,1785,143,202,45,0,0,0
+304,Batch-cooked Poultry,2096,186,185,68,1,1,0
+305,Batch-cooked Poultry,1996,195,187,52,1,1,0
+306,Batch-cooked Poultry,2199,202,224,55,1,1,0
+307,Batch-cooked Poultry,1650,145,146,54,0,1,0
+308,High-Carb Refuel,1564,93,118,80,0,0,0
+309,Mixed Protein,1969,164,182,65,1,0,0
+310,Cheat Day,1842,74,238,66,0,0,0
+311,Batch-cooked Poultry,2709,211,284,81,1,1,0
+312,Vegetarian,1951,98,239,67,0,0,1
+313,Mixed Protein,1516,109,126,64,0,0,0
+314,Mixed Protein,2083,155,188,79,1,0,0
+315,High-Carb Refuel,2071,119,212,83,0,0,0
+316,Cheat Day,1779,86,208,67,0,0,0
+317,High-Carb Refuel,1959,104,226,71,0,0,0
+318,Batch-cooked Poultry,1806,176,154,54,1,1,0
+319,Batch-cooked Poultry,2104,206,203,52,1,1,0
+320,Vegetarian,2073,106,221,85,0,0,1
+321,Batch-cooked Poultry,2390,181,241,78,1,1,0
+322,Vegetarian,1831,121,159,79,0,0,1
+323,Vegetarian,1847,111,182,75,0,0,1
+324,Vegetarian,1190,60,80,70,0,0,1
+325,High-Carb Refuel,2007,147,168,83,0,0,0
+326,Vegetarian,1892,102,173,88,0,0,1
+327,Batch-cooked Poultry,2032,161,149,88,1,1,0
+328,Batch-cooked Poultry,2335,225,208,67,1,1,0
+329,Vegetarian,2121,115,197,97,0,0,1
+330,Mixed Protein,1698,171,87,74,1,0,0
+331,Batch-cooked Poultry,2182,151,210,82,1,1,0
+332,Mixed Protein,1875,147,153,75,0,0,0
+333,High-Carb Refuel,2130,142,224,74,0,0,0
+334,High-Carb Refuel,1611,144,135,55,0,0,0
+335,Vegetarian,1872,78,201,84,0,0,1
+336,Mixed Protein,2482,152,185,126,1,0,0
+337,Batch-cooked Poultry,2146,182,215,62,1,1,0
+338,Mixed Protein,2095,158,206,71,1,0,0
+339,Mixed Protein,1833,134,187,61,0,0,0
+340,Vegetarian,1328,74,123,60,0,0,1
+341,Vegetarian,1952,137,126,100,0,0,1
+342,Batch-cooked Poultry,1968,196,170,56,1,1,0
+343,Batch-cooked Poultry,2104,192,199,60,1,1,0
+344,Batch-cooked Poultry,1630,153,169,38,1,1,0
+345,High-Carb Refuel,2018,152,231,54,1,0,0
+346,Vegetarian,1547,122,186,35,0,0,1
+347,Batch-cooked Poultry,2050,177,151,82,1,1,0
+348,High-Carb Refuel,2537,167,186,125,1,0,0
+349,Mixed Protein,1914,128,211,62,0,0,0
+350,Mixed Protein,1868,170,216,36,1,0,0
+351,Cheat Day,2399,111,293,87,0,0,0
+352,Batch-cooked Poultry,1963,201,166,55,1,1,0
+353,Batch-cooked Poultry,2367,182,196,95,1,1,0
+354,Vegetarian,1892,108,221,64,0,0,1
+355,Batch-cooked Poultry,2053,187,198,57,1,1,0
+356,Vegetarian,1786,124,174,66,0,0,1
+357,Batch-cooked Poultry,1901,162,122,85,1,1,0
+358,Batch-cooked Poultry,1945,166,174,65,1,1,0
+359,Batch-cooked Poultry,1812,172,146,60,1,1,0
+360,Mixed Protein,1610,141,113,66,0,0,0
+361,Batch-cooked Poultry,1788,188,160,44,1,1,0
+362,Batch-cooked Poultry,2077,199,147,77,1,1,0
+363,High-Carb Refuel,1666,111,229,34,0,0,0
+364,Mixed Protein,2197,182,230,61,1,0,0
+365,Mixed Protein,1977,149,154,85,0,0,0

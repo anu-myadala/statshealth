@@ -1,0 +1,366 @@
+workout_id,workout_type,exercise_category,intensity,duration_minutes
+1,Rest,Rest,1,0
+2,Incline Walk,Cardio,7,46
+3,Rest,Rest,1,0
+4,Rest,Rest,1,0
+5,Dumbbell Strength,Strength,7,42
+6,Yoga / Stretch,Recovery,3,33
+7,Rest,Rest,1,0
+8,Rest,Rest,1,0
+9,Dumbbell Strength,Strength,8,54
+10,Incline Walk,Cardio,5,61
+11,Incline Walk,Cardio,7,50
+12,Yoga / Stretch,Recovery,3,40
+13,HIIT,Cardio,8,51
+14,Rest,Rest,1,0
+15,Incline Walk,Cardio,7,59
+16,Dumbbell Strength,Strength,8,20
+17,HIIT,Cardio,9,39
+18,Dumbbell Strength,Strength,8,20
+19,Rest,Rest,1,0
+20,HIIT,Cardio,9,65
+21,Rest,Rest,1,0
+22,Incline Walk,Cardio,5,34
+23,Yoga / Stretch,Recovery,3,22
+24,Rest,Rest,1,0
+25,Rest,Rest,1,0
+26,Dumbbell Strength,Strength,7,81
+27,Incline Walk,Cardio,6,51
+28,Dumbbell Strength,Strength,6,36
+29,Dumbbell Strength,Strength,6,51
+30,Rest,Rest,1,0
+31,Rest,Rest,1,0
+32,Yoga / Stretch,Recovery,2,46
+33,Incline Walk,Cardio,7,43
+34,Incline Walk,Cardio,5,56
+35,Incline Walk,Cardio,5,50
+36,Dumbbell Strength,Strength,8,55
+37,Dumbbell Strength,Strength,7,34
+38,Incline Walk,Cardio,6,58
+39,Dumbbell Strength,Strength,8,69
+40,Rest,Rest,1,0
+41,Incline Walk,Cardio,6,31
+42,Rest,Rest,1,0
+43,Rest,Rest,1,0
+44,Incline Walk,Cardio,5,66
+45,Rest,Rest,1,0
+46,Rest,Rest,1,0
+47,Incline Walk,Cardio,7,46
+48,Incline Walk,Cardio,5,48
+49,Rest,Rest,1,0
+50,Dumbbell Strength,Strength,7,39
+51,Dumbbell Strength,Strength,8,30
+52,Dumbbell Strength,Strength,8,38
+53,Rest,Rest,1,0
+54,Rest,Rest,1,0
+55,Rest,Rest,1,0
+56,Rest,Rest,1,0
+57,Incline Walk,Cardio,6,62
+58,HIIT,Cardio,9,20
+59,Dumbbell Strength,Strength,7,33
+60,Dumbbell Strength,Strength,7,20
+61,Rest,Rest,1,0
+62,Incline Walk,Cardio,5,48
+63,HIIT,Cardio,8,42
+64,Rest,Rest,1,0
+65,HIIT,Cardio,9,42
+66,HIIT,Cardio,9,48
+67,HIIT,Cardio,8,29
+68,Incline Walk,Cardio,7,55
+69,Dumbbell Strength,Strength,8,54
+70,Incline Walk,Cardio,7,50
+71,Dumbbell Strength,Strength,7,53
+72,Incline Walk,Cardio,5,49
+73,Rest,Rest,1,0
+74,Dumbbell Strength,Strength,6,43
+75,Dumbbell Strength,Strength,8,40
+76,Incline Walk,Cardio,7,33
+77,Incline Walk,Cardio,6,29
+78,Rest,Rest,1,0
+79,HIIT,Cardio,8,31
+80,Rest,Rest,1,0
+81,Rest,Rest,1,0
+82,Incline Walk,Cardio,5,45
+83,Rest,Rest,1,0
+84,Dumbbell Strength,Strength,7,58
+85,Dumbbell Strength,Strength,7,56
+86,Dumbbell Strength,Strength,6,42
+87,Rest,Rest,1,0
+88,Incline Walk,Cardio,7,53
+89,Dumbbell Strength,Strength,7,47
+90,HIIT,Cardio,8,23
+91,Dumbbell Strength,Strength,6,43
+92,Rest,Rest,1,0
+93,Incline Walk,Cardio,6,31
+94,Incline Walk,Cardio,7,47
+95,Incline Walk,Cardio,7,23
+96,HIIT,Cardio,8,65
+97,Incline Walk,Cardio,5,63
+98,Dumbbell Strength,Strength,8,41
+99,Dumbbell Strength,Strength,7,50
+100,Yoga / Stretch,Recovery,2,20
+101,Yoga / Stretch,Recovery,2,27
+102,Rest,Rest,1,0
+103,Incline Walk,Cardio,5,28
+104,Yoga / Stretch,Recovery,2,55
+105,Rest,Rest,1,0
+106,Rest,Rest,1,0
+107,Incline Walk,Cardio,6,32
+108,Incline Walk,Cardio,7,48
+109,Dumbbell Strength,Strength,8,69
+110,Yoga / Stretch,Recovery,3,26
+111,Incline Walk,Cardio,6,48
+112,Dumbbell Strength,Strength,6,72
+113,Incline Walk,Cardio,6,20
+114,HIIT,Cardio,9,25
+115,Dumbbell Strength,Strength,6,38
+116,Rest,Rest,1,0
+117,Rest,Rest,1,0
+118,Rest,Rest,1,0
+119,Incline Walk,Cardio,7,20
+120,HIIT,Cardio,9,52
+121,HIIT,Cardio,8,36
+122,HIIT,Cardio,9,64
+123,Dumbbell Strength,Strength,8,35
+124,Incline Walk,Cardio,5,35
+125,Dumbbell Strength,Strength,6,53
+126,Incline Walk,Cardio,6,56
+127,Incline Walk,Cardio,7,51
+128,Dumbbell Strength,Strength,6,20
+129,Dumbbell Strength,Strength,7,53
+130,HIIT,Cardio,8,29
+131,Dumbbell Strength,Strength,7,48
+132,Yoga / Stretch,Recovery,3,23
+133,HIIT,Cardio,8,51
+134,Incline Walk,Cardio,7,32
+135,HIIT,Cardio,9,25
+136,Dumbbell Strength,Strength,8,55
+137,Yoga / Stretch,Recovery,2,48
+138,Incline Walk,Cardio,5,35
+139,Rest,Rest,1,0
+140,Dumbbell Strength,Strength,6,38
+141,Incline Walk,Cardio,6,45
+142,Incline Walk,Cardio,5,49
+143,Yoga / Stretch,Recovery,3,35
+144,HIIT,Cardio,9,52
+145,Incline Walk,Cardio,7,36
+146,Incline Walk,Cardio,5,38
+147,Incline Walk,Cardio,5,65
+148,HIIT,Cardio,9,29
+149,Incline Walk,Cardio,5,20
+150,Dumbbell Strength,Strength,7,69
+151,Rest,Rest,1,0
+152,Rest,Rest,1,0
+153,Dumbbell Strength,Strength,8,20
+154,HIIT,Cardio,8,40
+155,Dumbbell Strength,Strength,6,40
+156,Rest,Rest,1,0
+157,Incline Walk,Cardio,5,28
+158,Rest,Rest,1,0
+159,Rest,Rest,1,0
+160,Rest,Rest,1,0
+161,Dumbbell Strength,Strength,6,55
+162,Yoga / Stretch,Recovery,2,75
+163,Dumbbell Strength,Strength,8,47
+164,Dumbbell Strength,Strength,7,39
+165,HIIT,Cardio,9,42
+166,Incline Walk,Cardio,7,54
+167,Rest,Rest,1,0
+168,Rest,Rest,1,0
+169,Incline Walk,Cardio,7,39
+170,Yoga / Stretch,Recovery,2,72
+171,Incline Walk,Cardio,5,42
+172,HIIT,Cardio,9,70
+173,Incline Walk,Cardio,5,28
+174,Yoga / Stretch,Recovery,2,53
+175,Dumbbell Strength,Strength,8,49
+176,Dumbbell Strength,Strength,8,31
+177,Incline Walk,Cardio,7,47
+178,Yoga / Stretch,Recovery,3,63
+179,Rest,Rest,1,0
+180,Rest,Rest,1,0
+181,Rest,Rest,1,0
+182,Rest,Rest,1,0
+183,HIIT,Cardio,8,39
+184,Incline Walk,Cardio,7,43
+185,Rest,Rest,1,0
+186,Rest,Rest,1,0
+187,Incline Walk,Cardio,7,52
+188,Dumbbell Strength,Strength,8,37
+189,Rest,Rest,1,0
+190,Incline Walk,Cardio,7,56
+191,Yoga / Stretch,Recovery,3,49
+192,Dumbbell Strength,Strength,7,34
+193,Dumbbell Strength,Strength,6,25
+194,Rest,Rest,1,0
+195,Dumbbell Strength,Strength,7,50
+196,Dumbbell Strength,Strength,6,80
+197,HIIT,Cardio,8,51
+198,Rest,Rest,1,0
+199,Dumbbell Strength,Strength,6,42
+200,Incline Walk,Cardio,7,57
+201,Rest,Rest,1,0
+202,Yoga / Stretch,Recovery,3,63
+203,HIIT,Cardio,9,37
+204,Dumbbell Strength,Strength,8,38
+205,Dumbbell Strength,Strength,7,37
+206,Dumbbell Strength,Strength,7,56
+207,Dumbbell Strength,Strength,6,67
+208,Rest,Rest,1,0
+209,Dumbbell Strength,Strength,8,38
+210,HIIT,Cardio,8,49
+211,Rest,Rest,1,0
+212,HIIT,Cardio,8,59
+213,Dumbbell Strength,Strength,8,20
+214,Rest,Rest,1,0
+215,Rest,Rest,1,0
+216,Rest,Rest,1,0
+217,Dumbbell Strength,Strength,8,30
+218,Dumbbell Strength,Strength,6,31
+219,Yoga / Stretch,Recovery,2,41
+220,Incline Walk,Cardio,5,61
+221,Incline Walk,Cardio,5,41
+222,Incline Walk,Cardio,5,29
+223,Rest,Rest,1,0
+224,Yoga / Stretch,Recovery,3,60
+225,Incline Walk,Cardio,6,30
+226,Yoga / Stretch,Recovery,3,31
+227,Dumbbell Strength,Strength,8,53
+228,HIIT,Cardio,9,41
+229,HIIT,Cardio,9,54
+230,Dumbbell Strength,Strength,6,44
+231,Dumbbell Strength,Strength,6,55
+232,Incline Walk,Cardio,6,29
+233,Yoga / Stretch,Recovery,2,44
+234,HIIT,Cardio,8,41
+235,Yoga / Stretch,Recovery,2,26
+236,Rest,Rest,1,0
+237,Incline Walk,Cardio,7,55
+238,Rest,Rest,1,0
+239,Dumbbell Strength,Strength,7,29
+240,Dumbbell Strength,Strength,8,43
+241,Rest,Rest,1,0
+242,Rest,Rest,1,0
+243,Dumbbell Strength,Strength,7,22
+244,HIIT,Cardio,8,31
+245,HIIT,Cardio,8,66
+246,Rest,Rest,1,0
+247,HIIT,Cardio,8,56
+248,Incline Walk,Cardio,7,27
+249,Incline Walk,Cardio,5,28
+250,Incline Walk,Cardio,6,51
+251,Rest,Rest,1,0
+252,Rest,Rest,1,0
+253,Incline Walk,Cardio,7,42
+254,Dumbbell Strength,Strength,7,49
+255,Dumbbell Strength,Strength,7,47
+256,Rest,Rest,1,0
+257,Rest,Rest,1,0
+258,Dumbbell Strength,Strength,7,20
+259,Dumbbell Strength,Strength,8,20
+260,HIIT,Cardio,8,60
+261,Dumbbell Strength,Strength,7,62
+262,Rest,Rest,1,0
+263,Incline Walk,Cardio,7,20
+264,Dumbbell Strength,Strength,7,46
+265,Yoga / Stretch,Recovery,2,58
+266,Dumbbell Strength,Strength,6,71
+267,Incline Walk,Cardio,5,52
+268,Dumbbell Strength,Strength,8,39
+269,Dumbbell Strength,Strength,7,31
+270,Dumbbell Strength,Strength,6,45
+271,Dumbbell Strength,Strength,7,40
+272,Dumbbell Strength,Strength,7,29
+273,Dumbbell Strength,Strength,7,75
+274,HIIT,Cardio,9,71
+275,Rest,Rest,1,0
+276,Incline Walk,Cardio,5,31
+277,Incline Walk,Cardio,6,57
+278,HIIT,Cardio,8,54
+279,Rest,Rest,1,0
+280,Rest,Rest,1,0
+281,Dumbbell Strength,Strength,8,54
+282,Dumbbell Strength,Strength,6,56
+283,Dumbbell Strength,Strength,6,54
+284,Dumbbell Strength,Strength,7,50
+285,HIIT,Cardio,9,20
+286,Incline Walk,Cardio,7,46
+287,Dumbbell Strength,Strength,7,36
+288,Incline Walk,Cardio,7,25
+289,HIIT,Cardio,8,70
+290,Dumbbell Strength,Strength,6,70
+291,Rest,Rest,1,0
+292,Dumbbell Strength,Strength,6,48
+293,Yoga / Stretch,Recovery,3,65
+294,Dumbbell Strength,Strength,6,45
+295,Rest,Rest,1,0
+296,Yoga / Stretch,Recovery,3,28
+297,Yoga / Stretch,Recovery,2,50
+298,Rest,Rest,1,0
+299,Rest,Rest,1,0
+300,HIIT,Cardio,8,44
+301,Rest,Rest,1,0
+302,Dumbbell Strength,Strength,6,71
+303,HIIT,Cardio,9,58
+304,HIIT,Cardio,8,45
+305,Rest,Rest,1,0
+306,Incline Walk,Cardio,7,45
+307,Incline Walk,Cardio,6,41
+308,HIIT,Cardio,8,28
+309,Incline Walk,Cardio,6,42
+310,Dumbbell Strength,Strength,8,33
+311,Incline Walk,Cardio,6,26
+312,Incline Walk,Cardio,5,52
+313,Dumbbell Strength,Strength,7,50
+314,Incline Walk,Cardio,7,20
+315,Incline Walk,Cardio,5,43
+316,Incline Walk,Cardio,7,59
+317,Incline Walk,Cardio,6,60
+318,Rest,Rest,1,0
+319,Incline Walk,Cardio,6,45
+320,Yoga / Stretch,Recovery,2,32
+321,Yoga / Stretch,Recovery,3,28
+322,Incline Walk,Cardio,5,50
+323,Incline Walk,Cardio,5,50
+324,HIIT,Cardio,8,64
+325,Rest,Rest,1,0
+326,Rest,Rest,1,0
+327,Rest,Rest,1,0
+328,HIIT,Cardio,8,40
+329,HIIT,Cardio,8,48
+330,Incline Walk,Cardio,5,41
+331,Rest,Rest,1,0
+332,Dumbbell Strength,Strength,6,48
+333,Rest,Rest,1,0
+334,Rest,Rest,1,0
+335,Dumbbell Strength,Strength,6,49
+336,HIIT,Cardio,9,38
+337,Dumbbell Strength,Strength,7,48
+338,Rest,Rest,1,0
+339,Dumbbell Strength,Strength,7,27
+340,Yoga / Stretch,Recovery,3,37
+341,Dumbbell Strength,Strength,8,66
+342,Yoga / Stretch,Recovery,3,27
+343,Rest,Rest,1,0
+344,HIIT,Cardio,9,20
+345,Rest,Rest,1,0
+346,Rest,Rest,1,0
+347,Yoga / Stretch,Recovery,3,43
+348,Incline Walk,Cardio,6,63
+349,HIIT,Cardio,9,20
+350,Dumbbell Strength,Strength,6,50
+351,HIIT,Cardio,8,68
+352,Dumbbell Strength,Strength,8,28
+353,HIIT,Cardio,8,39
+354,HIIT,Cardio,9,33
+355,Incline Walk,Cardio,5,31
+356,HIIT,Cardio,8,40
+357,Rest,Rest,1,0
+358,Rest,Rest,1,0
+359,Incline Walk,Cardio,6,39
+360,HIIT,Cardio,9,73
+361,Yoga / Stretch,Recovery,3,45
+362,Dumbbell Strength,Strength,7,71
+363,Dumbbell Strength,Strength,8,43
+364,Dumbbell Strength,Strength,7,46
+365,Rest,Rest,1,0
