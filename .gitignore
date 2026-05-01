@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated data / model artifacts (reproducible via main.py)
+data/wearable_data.csv
+data/nutrition_data.csv
+database/biometric_warehouse.db
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
