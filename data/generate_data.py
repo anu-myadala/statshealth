@@ -1,7 +1,19 @@
 """
 generate_data.py
-Generates synthetic wearable (Fitbit-style) and nutritional (MyFitnessPal-style)
-CSV data for 365 days to simulate a "bimodal" activity profile.
+================
+Generates two distinct raw data sources that simulate real-world exports:
+
+  wearable_raw.csv   — minute-level heart-rate + steps (Fitbit-style)
+                       365 days × 1440 minutes = 525,600 rows
+  nutrition_raw.csv  — per-meal nutrition log (MyFitnessPal-style)
+                       3–5 meal entries per day, one row each
+
+These two sources are intentionally kept separate and later merged in the
+notebook on the ``full_date`` key, mimicking a real integration pipeline.
+
+Surrogate keys (workout_sk, nutrition_sk, date_sk) are assigned during the
+dimension-building step in load_data.py — NOT here — so this script stays
+a "raw source" layer with no warehouse concerns.
 """
 
 import numpy as np
@@ -10,234 +22,187 @@ from datetime import date, timedelta
 import os
 
 SEED = 42
-rng = np.random.default_rng(SEED)
+rng  = np.random.default_rng(SEED)
 
-# ── helpers ──────────────────────────────────────────────────────────────────
+N_DAYS = 365
+START  = date(2024, 1, 1)
+DATES  = [START + timedelta(days=i) for i in range(N_DAYS)]
+DATE_STRS = [str(d) for d in DATES]
 
-def _clamp(arr, lo, hi):
-    return np.clip(arr, lo, hi)
 
+# ─── workout schedule (drives HR waveform shape) ─────────────────────────────
 
-# ── date spine ───────────────────────────────────────────────────────────────
-
-start = date(2024, 1, 1)
-dates = [start + timedelta(days=i) for i in range(365)]
-n = len(dates)
-
-# ── workout dimension ─────────────────────────────────────────────────────────
-
-workout_types = rng.choice(
-    ["Dumbbell Strength", "Incline Walk", "HIIT", "Rest", "Yoga / Stretch"],
-    size=n,
-    p=[0.25, 0.25, 0.15, 0.25, 0.10],
-)
-
-intensity_map = {
+_INTENSITY_MAP = {
     "Dumbbell Strength": (6, 9),
     "Incline Walk":      (5, 8),
     "HIIT":              (8, 10),
     "Rest":              (1, 2),
     "Yoga / Stretch":    (2, 4),
 }
-
-intensity = np.array([
-    rng.integers(*intensity_map[w]) for w in workout_types
-])
-
-duration = np.where(
-    workout_types == "Rest",
-    0,
-    _clamp(rng.normal(45, 15, n).astype(int), 20, 90),
-)
-
-category_map = {
+_CATEGORY_MAP = {
     "Dumbbell Strength": "Strength",
     "Incline Walk":      "Cardio",
     "HIIT":              "Cardio",
     "Rest":              "Rest",
     "Yoga / Stretch":    "Recovery",
 }
-exercise_category = np.array([category_map[w] for w in workout_types])
 
-workout_df = pd.DataFrame({
-    "workout_id":        range(1, n + 1),
-    "workout_type":      workout_types,
-    "exercise_category": exercise_category,
-    "intensity":         intensity,
-    "duration_minutes":  duration,
+WORKOUT_TYPES = rng.choice(
+    list(_INTENSITY_MAP.keys()), size=N_DAYS,
+    p=[0.25, 0.25, 0.15, 0.25, 0.10],
+)
+INTENSITY = np.array([rng.integers(*_INTENSITY_MAP[w]) for w in WORKOUT_TYPES])
+DURATION  = np.where(
+    WORKOUT_TYPES == "Rest", 0,
+    np.clip(rng.normal(45, 15, N_DAYS).astype(int), 20, 90),
+)
+CATEGORY = np.array([_CATEGORY_MAP[w] for w in WORKOUT_TYPES])
+
+# Per-day resting HR base (individual variation)
+RESTING_HR_BASE = np.clip(rng.normal(64, 4, N_DAYS).astype(int), 50, 82)
+
+
+# ─── SOURCE 1: minute-level wearable export ───────────────────────────────────
+
+def _build_day_hr(rhr: int, wtype: str, intens: int, dur: int) -> np.ndarray:
+    """Return a 1440-element float array of minute-by-minute HR for one day.
+
+    The waveform is deliberately *bimodal*:
+      • Peak 1 — morning structured workout (cardio or strength spike)
+      • Peak 2 — short afternoon NEAT walk (~30 min around 2 pm)
+    Rest / Yoga days produce a flat near-resting baseline, giving PCA a clear
+    contrast between bimodal and sedentary signatures.
+    """
+    hr = rng.normal(rhr, 2.0, 1440)           # baseline + noise
+
+    if wtype == "Rest":
+        return np.clip(hr, 40, 120).round(1)
+
+    # ── Peak 1: morning workout (5–7 am = minutes 300–420) ────────────────────
+    w_start  = int(rng.uniform(300, 420))
+    hr_peak  = rhr + intens * 8 + rng.normal(0, 4)
+    for m in range(w_start, min(w_start + dur, 1440)):
+        t        = (m - w_start) / dur
+        envelope = np.sin(np.pi * t)          # smooth rise-and-fall
+        hr[m]    = rhr + (hr_peak - rhr) * envelope + rng.normal(0, 3)
+
+    # ── Peak 2: afternoon NEAT walk (1–3 pm = minutes 780–900) ───────────────
+    if wtype != "Yoga / Stretch":             # yoga already low-intensity
+        a_start = int(rng.uniform(780, 900))
+        a_dur   = int(rng.uniform(15, 40))
+        a_peak  = rhr + 15 + rng.normal(0, 5)
+        for m in range(a_start, min(a_start + a_dur, 1440)):
+            t        = (m - a_start) / a_dur
+            envelope = np.sin(np.pi * t)
+            hr[m]    = max(hr[m], rhr + (a_peak - rhr) * envelope)
+
+    return np.clip(hr, 40, 200).round(1)
+
+
+print("Building minute-level wearable data (525,600 rows) …")
+day_frames = []
+for i, (d, wt, ins, dur, rhr) in enumerate(
+        zip(DATE_STRS, WORKOUT_TYPES, INTENSITY, DURATION, RESTING_HR_BASE)):
+    hr_arr   = _build_day_hr(rhr, wt, ins, dur)
+    # Steps: proportional to HR above resting, zero when near resting
+    steps_per_min = np.where(
+        hr_arr > rhr + 20, rng.integers(8, 22, 1440),
+        np.where(hr_arr > rhr + 5, rng.integers(1, 8, 1440), 0),
+    )
+    day_frames.append(pd.DataFrame({
+        "full_date":        d,
+        "minute":           np.arange(1440),
+        "heart_rate":       hr_arr,
+        "steps_per_minute": steps_per_min,
+    }))
+
+wearable_raw = pd.concat(day_frames, ignore_index=True)
+print(f"  wearable_raw shape: {wearable_raw.shape}")
+
+
+# ─── SOURCE 2: per-meal nutrition log ────────────────────────────────────────
+
+_MEAL_TEMPLATES = {
+    "Batch-cooked Chicken Breast": dict(
+        cal=(380, 480), prot=(42, 55), carb=(8, 20),  fat=(6, 14)),
+    "Ground Turkey Bowl":          dict(
+        cal=(420, 520), prot=(38, 50), carb=(30, 50),  fat=(10, 20)),
+    "Protein Shake":               dict(
+        cal=(140, 200), prot=(25, 35), carb=(5, 15),   fat=(2, 6)),
+    "Greek Yogurt + Berries":      dict(
+        cal=(180, 250), prot=(15, 22), carb=(20, 35),  fat=(3, 8)),
+    "Egg White Omelette":          dict(
+        cal=(200, 300), prot=(20, 30), carb=(5, 15),   fat=(4, 10)),
+    "Brown Rice + Veggies":        dict(
+        cal=(300, 400), prot=(8, 15),  carb=(55, 75),  fat=(4, 10)),
+    "Avocado Toast (Whole Grain)": dict(
+        cal=(350, 450), prot=(10, 18), carb=(40, 55),  fat=(14, 22)),
+    "Lentil Soup":                 dict(
+        cal=(280, 380), prot=(14, 22), carb=(40, 55),  fat=(5, 12)),
+    "Cheeseburger + Fries":        dict(
+        cal=(700, 950), prot=(28, 40), carb=(70, 95),  fat=(30, 50)),
+    "Mixed Nuts (Snack)":          dict(
+        cal=(160, 220), prot=(5, 9),   carb=(6, 12),   fat=(13, 19)),
+    "Incline Walk Fuel Bar":       dict(
+        cal=(200, 280), prot=(10, 18), carb=(28, 40),  fat=(5, 12)),
+    "Post-Workout Rice Cakes":     dict(
+        cal=(120, 180), prot=(3, 7),   carb=(25, 38),  fat=(1, 4)),
+}
+MEAL_NAMES = list(_MEAL_TEMPLATES.keys())
+
+# Assign a "dominant meal pattern" per day (drives which meals appear)
+_PATTERN_MEAL_POOL = {
+    "High Protein": ["Batch-cooked Chicken Breast", "Ground Turkey Bowl",
+                     "Protein Shake", "Egg White Omelette", "Greek Yogurt + Berries"],
+    "Carb Refuel":  ["Brown Rice + Veggies", "Avocado Toast (Whole Grain)",
+                     "Post-Workout Rice Cakes", "Lentil Soup", "Incline Walk Fuel Bar"],
+    "Vegetarian":   ["Lentil Soup", "Avocado Toast (Whole Grain)", "Brown Rice + Veggies",
+                     "Greek Yogurt + Berries", "Mixed Nuts (Snack)"],
+    "Cheat Day":    ["Cheeseburger + Fries", "Mixed Nuts (Snack)", "Protein Shake"],
+    "Mixed":        MEAL_NAMES,
+}
+PATTERN = rng.choice(
+    list(_PATTERN_MEAL_POOL.keys()), size=N_DAYS,
+    p=[0.30, 0.20, 0.20, 0.10, 0.20],
+)
+
+meal_rows = []
+for d_str, pat in zip(DATE_STRS, PATTERN):
+    pool   = _PATTERN_MEAL_POOL[pat]
+    n_meals = int(rng.integers(3, 6))
+    chosen  = rng.choice(pool, size=n_meals, replace=True)
+    for meal in chosen:
+        t = _MEAL_TEMPLATES[meal]
+        meal_rows.append({
+            "full_date":  d_str,
+            "meal_name":  meal,
+            "calories":   int(rng.integers(t["cal"][0], t["cal"][1])),
+            "protein_g":  int(rng.integers(t["prot"][0], t["prot"][1])),
+            "carbs_g":    int(rng.integers(t["carb"][0], t["carb"][1])),
+            "fat_g":      int(rng.integers(t["fat"][0],  t["fat"][1])),
+        })
+
+nutrition_raw = pd.DataFrame(meal_rows)
+print(f"  nutrition_raw shape: {nutrition_raw.shape}")
+
+# ─── Also persist the workout schedule so load_data.py can build Dim_Workout ─
+
+workout_schedule = pd.DataFrame({
+    "full_date":       DATE_STRS,
+    "workout_type":    WORKOUT_TYPES,
+    "exercise_category": CATEGORY,
+    "intensity":       INTENSITY,
+    "duration_minutes": DURATION,
 })
 
-# ── nutrition dimension ───────────────────────────────────────────────────────
+# ─── persist raw sources ──────────────────────────────────────────────────────
 
-meal_categories = rng.choice(
-    ["Batch-cooked Poultry", "Mixed Protein", "Vegetarian", "High-Carb Refuel", "Cheat Day"],
-    size=n,
-    p=[0.30, 0.25, 0.20, 0.15, 0.10],
-)
+out_dir = os.path.dirname(os.path.abspath(__file__))
+wearable_raw.to_csv(  os.path.join(out_dir, "wearable_raw.csv"),   index=False)
+nutrition_raw.to_csv( os.path.join(out_dir, "nutrition_raw.csv"),  index=False)
+workout_schedule.to_csv(os.path.join(out_dir, "workout_schedule.csv"), index=False)
 
-protein_g = _clamp(
-    np.where(
-        meal_categories == "Batch-cooked Poultry",
-        rng.normal(185, 20, n),
-        np.where(
-            meal_categories == "Mixed Protein",
-            rng.normal(150, 20, n),
-            np.where(
-                meal_categories == "Vegetarian",
-                rng.normal(100, 20, n),
-                np.where(
-                    meal_categories == "High-Carb Refuel",
-                    rng.normal(120, 20, n),
-                    rng.normal(90, 20, n),   # Cheat Day
-                ),
-            ),
-        ),
-    ),
-    60, 250,
-).astype(int)
-
-carbs_g = _clamp(rng.normal(200, 50, n), 80, 400).astype(int)
-fat_g   = _clamp(rng.normal(70, 20, n),  30, 150).astype(int)
-total_calories = (protein_g * 4 + carbs_g * 4 + fat_g * 9).astype(int)
-
-is_high_protein  = (protein_g > 150).astype(int)
-is_poultry       = (meal_categories == "Batch-cooked Poultry").astype(int)
-is_vegetarian    = (meal_categories == "Vegetarian").astype(int)
-
-nutrition_df = pd.DataFrame({
-    "nutrition_id":   range(1, n + 1),
-    "meal_category":  meal_categories,
-    "total_calories": total_calories,
-    "protein_g":      protein_g,
-    "carbs_g":        carbs_g,
-    "fat_g":          fat_g,
-    "is_high_protein": is_high_protein,
-    "is_poultry":      is_poultry,
-    "is_vegetarian":   is_vegetarian,
-})
-
-# ── time dimension ────────────────────────────────────────────────────────────
-
-day_names  = [d.strftime("%A") for d in dates]
-months     = [d.month for d in dates]
-is_weekend = [1 if d.weekday() >= 5 else 0 for d in dates]
-
-def season(m):
-    if m in (12, 1, 2):  return "Winter"
-    if m in (3, 4, 5):   return "Spring"
-    if m in (6, 7, 8):   return "Summer"
-    return "Fall"
-
-seasons = [season(m) for m in months]
-
-time_df = pd.DataFrame({
-    "time_id":    range(1, n + 1),
-    "date":       [str(d) for d in dates],
-    "day_of_week": day_names,
-    "month":      months,
-    "season":     seasons,
-    "is_weekend": is_weekend,
-})
-
-# ── fact table ────────────────────────────────────────────────────────────────
-
-# Active minutes influenced by workout intensity + duration
-base_active = duration * (intensity / 10.0)
-total_active_minutes = _clamp(
-    (base_active + rng.normal(0, 5, n)).astype(int), 0, 120
-)
-
-# Resting HR: goes down with cardio/strength days, up on rest days
-rhr_base = 62
-rhr_noise = rng.normal(0, 3, n)
-rhr_workout_effect = np.where(
-    exercise_category == "Cardio", -3,
-    np.where(exercise_category == "Strength", -2, 0)
-)
-# High-protein reduces RHR slightly next day (shift by 1)
-protein_rhr_effect = np.zeros(n)
-protein_rhr_effect[1:] = np.where(is_high_protein[:-1], -1.5, 0)
-
-resting_hr = _clamp(
-    (rhr_base + rhr_noise + rhr_workout_effect + protein_rhr_effect).astype(int),
-    45, 90,
-)
-
-# Sleep: better on rest/yoga days, worse after HIIT
-sleep_base = 7.0
-sleep_effect = np.where(
-    workout_types == "Rest", 0.5,
-    np.where(workout_types == "HIIT", -0.5, 0.0)
-)
-sleep_duration = _clamp(
-    sleep_base + sleep_effect + rng.normal(0, 0.5, n), 4.5, 9.5
-).round(1)
-
-# Active calories: driven by intensity × duration, modulated by protein
-active_calories = _clamp(
-    (duration * intensity * 3.5 + protein_g * 0.5 + rng.normal(0, 40, n)).astype(int),
-    0, 1200,
-)
-
-# Steps
-steps = _clamp(
-    np.where(
-        exercise_category == "Cardio",
-        rng.integers(8000, 18000, n),
-        np.where(
-            exercise_category == "Strength",
-            rng.integers(5000, 10000, n),
-            rng.integers(2000, 7000, n),
-        ),
-    ),
-    1000, 25000,
-)
-
-# HRV score (higher = better recovery)
-hrv = _clamp(
-    (50 + sleep_duration * 3 - resting_hr * 0.3 + rng.normal(0, 5, n)).astype(int),
-    20, 100,
-)
-
-# Recovery score (target for classification)
-recovery_raw = (
-    hrv * 0.4
-    + sleep_duration * 4
-    + (100 - resting_hr) * 0.3
-    - intensity * 1.5
-    + is_high_protein * 3
-    + rng.normal(0, 3, n)
-)
-recovery_score = _clamp(recovery_raw.astype(int), 20, 100)
-
-# Binary label: 1 = "Ready to Train", 0 = "Needs Rest"
-recovery_label = (recovery_score >= 60).astype(int)
-
-fact_df = pd.DataFrame({
-    "fact_id":             range(1, n + 1),
-    "date_id":             range(1, n + 1),   # FK → Dim_Time
-    "workout_id":          range(1, n + 1),   # FK → Dim_Workout
-    "nutrition_id":        range(1, n + 1),   # FK → Dim_Nutrition
-    "time_id":             range(1, n + 1),   # FK → Dim_Time
-    "total_active_minutes": total_active_minutes,
-    "resting_heart_rate":  resting_hr,
-    "sleep_duration_hours": sleep_duration,
-    "active_calories":     active_calories,
-    "steps":               steps,
-    "hrv_score":           hrv,
-    "recovery_score":      recovery_score,
-    "recovery_label":      recovery_label,   # 1=Ready, 0=Needs Rest
-})
-
-# ── persist ───────────────────────────────────────────────────────────────────
-
-out_dir = os.path.dirname(__file__)
-workout_df.to_csv(os.path.join(out_dir, "dim_workout.csv"), index=False)
-nutrition_df.to_csv(os.path.join(out_dir, "dim_nutrition.csv"), index=False)
-time_df.to_csv(os.path.join(out_dir, "dim_time.csv"), index=False)
-fact_df.to_csv(os.path.join(out_dir, "fact_daily_biometrics.csv"), index=False)
-
-print("✓ Generated 365-day synthetic dataset")
-print(f"  Workout types   : {dict(pd.Series(workout_types).value_counts())}")
-print(f"  Meal categories : {dict(pd.Series(meal_categories).value_counts())}")
-print(f"  Ready-to-train  : {recovery_label.sum()} / {n} days")
+print("\n✓ Raw sources written")
+print(f"  wearable_raw.csv   : {len(wearable_raw):,} rows")
+print(f"  nutrition_raw.csv  : {len(nutrition_raw):,} rows")
+print(f"  workout_schedule.csv: {len(workout_schedule):,} rows")

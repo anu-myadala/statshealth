@@ -1,0 +1,1444 @@
+full_date,meal_name,calories,protein_g,carbs_g,fat_g
+2024-01-01,Mixed Nuts (Snack),205,5,9,13
+2024-01-01,Brown Rice + Veggies,378,11,64,4
+2024-01-01,Greek Yogurt + Berries,249,21,22,5
+2024-01-01,Mixed Nuts (Snack),172,8,7,14
+2024-01-02,Incline Walk Fuel Bar,242,14,34,8
+2024-01-02,Incline Walk Fuel Bar,216,16,35,10
+2024-01-02,Lentil Soup,359,19,52,11
+2024-01-02,Lentil Soup,369,21,41,9
+2024-01-02,Incline Walk Fuel Bar,241,12,39,9
+2024-01-03,Lentil Soup,309,14,52,7
+2024-01-03,Incline Walk Fuel Bar,200,10,38,11
+2024-01-03,Incline Walk Fuel Bar,244,13,33,9
+2024-01-03,Lentil Soup,281,21,50,7
+2024-01-03,Post-Workout Rice Cakes,132,6,29,1
+2024-01-04,Egg White Omelette,284,22,12,4
+2024-01-04,Egg White Omelette,212,27,10,7
+2024-01-04,Protein Shake,168,29,5,3
+2024-01-05,Greek Yogurt + Berries,185,18,31,6
+2024-01-05,Post-Workout Rice Cakes,142,4,35,2
+2024-01-05,Protein Shake,181,26,12,4
+2024-01-05,Cheeseburger + Fries,716,37,77,48
+2024-01-05,Protein Shake,147,25,5,3
+2024-01-06,Greek Yogurt + Berries,215,16,31,6
+2024-01-06,Incline Walk Fuel Bar,245,15,30,8
+2024-01-06,Brown Rice + Veggies,365,12,67,4
+2024-01-06,Lentil Soup,329,18,53,7
+2024-01-07,Lentil Soup,362,16,47,7
+2024-01-07,Avocado Toast (Whole Grain),418,14,49,15
+2024-01-07,Brown Rice + Veggies,364,12,60,8
+2024-01-07,Brown Rice + Veggies,386,12,60,6
+2024-01-08,Protein Shake,183,33,13,5
+2024-01-08,Greek Yogurt + Berries,227,20,32,3
+2024-01-08,Greek Yogurt + Berries,193,15,22,7
+2024-01-09,Brown Rice + Veggies,394,11,74,7
+2024-01-09,Incline Walk Fuel Bar,272,15,28,11
+2024-01-09,Incline Walk Fuel Bar,277,13,37,7
+2024-01-09,Brown Rice + Veggies,399,12,66,8
+2024-01-09,Post-Workout Rice Cakes,162,3,30,2
+2024-01-10,Protein Shake,161,30,6,3
+2024-01-10,Cheeseburger + Fries,765,34,78,48
+2024-01-10,Protein Shake,155,26,6,5
+2024-01-11,Avocado Toast (Whole Grain),351,17,50,18
+2024-01-11,Incline Walk Fuel Bar,214,11,33,10
+2024-01-11,Avocado Toast (Whole Grain),360,13,53,14
+2024-01-11,Post-Workout Rice Cakes,169,6,31,2
+2024-01-12,Greek Yogurt + Berries,213,19,28,7
+2024-01-12,Cheeseburger + Fries,798,34,93,42
+2024-01-12,Mixed Nuts (Snack),177,8,6,13
+2024-01-12,Batch-cooked Chicken Breast,466,53,15,6
+2024-01-13,Greek Yogurt + Berries,231,18,30,7
+2024-01-13,Brown Rice + Veggies,334,11,64,7
+2024-01-13,Avocado Toast (Whole Grain),397,10,47,15
+2024-01-13,Mixed Nuts (Snack),177,5,9,17
+2024-01-14,Post-Workout Rice Cakes,176,5,31,2
+2024-01-14,Brown Rice + Veggies,354,8,61,5
+2024-01-14,Brown Rice + Veggies,316,8,63,9
+2024-01-15,Cheeseburger + Fries,809,37,80,33
+2024-01-15,Cheeseburger + Fries,833,38,70,36
+2024-01-15,Protein Shake,166,28,12,4
+2024-01-15,Mixed Nuts (Snack),209,6,11,16
+2024-01-16,Brown Rice + Veggies,317,13,66,7
+2024-01-16,Mixed Nuts (Snack),205,6,6,17
+2024-01-16,Mixed Nuts (Snack),160,7,9,14
+2024-01-16,Lentil Soup,293,14,49,8
+2024-01-17,Batch-cooked Chicken Breast,442,53,17,6
+2024-01-17,Greek Yogurt + Berries,213,19,30,3
+2024-01-17,Greek Yogurt + Berries,207,16,29,3
+2024-01-17,Greek Yogurt + Berries,217,18,24,3
+2024-01-18,Ground Turkey Bowl,432,49,42,18
+2024-01-18,Batch-cooked Chicken Breast,386,43,16,8
+2024-01-18,Egg White Omelette,215,24,9,6
+2024-01-18,Ground Turkey Bowl,495,38,47,17
+2024-01-19,Lentil Soup,280,14,40,11
+2024-01-19,Avocado Toast (Whole Grain),424,13,53,19
+2024-01-19,Lentil Soup,287,16,40,10
+2024-01-20,Greek Yogurt + Berries,181,19,31,6
+2024-01-20,Lentil Soup,286,18,53,5
+2024-01-20,Batch-cooked Chicken Breast,405,52,18,11
+2024-01-20,Ground Turkey Bowl,508,42,44,10
+2024-01-21,Egg White Omelette,289,27,6,7
+2024-01-21,Post-Workout Rice Cakes,134,4,25,3
+2024-01-21,Ground Turkey Bowl,431,41,33,11
+2024-01-22,Lentil Soup,371,14,50,8
+2024-01-22,Brown Rice + Veggies,388,9,55,8
+2024-01-22,Greek Yogurt + Berries,192,21,25,4
+2024-01-22,Mixed Nuts (Snack),169,6,10,16
+2024-01-22,Greek Yogurt + Berries,206,15,23,5
+2024-01-23,Avocado Toast (Whole Grain),380,15,44,18
+2024-01-23,Mixed Nuts (Snack),201,5,9,14
+2024-01-23,Mixed Nuts (Snack),202,6,7,13
+2024-01-23,Greek Yogurt + Berries,208,21,29,5
+2024-01-24,Greek Yogurt + Berries,221,20,21,7
+2024-01-24,Ground Turkey Bowl,507,44,36,19
+2024-01-24,Ground Turkey Bowl,483,39,32,16
+2024-01-24,Greek Yogurt + Berries,205,15,29,7
+2024-01-25,Ground Turkey Bowl,453,40,39,17
+2024-01-25,Greek Yogurt + Berries,224,20,28,4
+2024-01-25,Protein Shake,192,31,12,3
+2024-01-26,Greek Yogurt + Berries,240,16,33,3
+2024-01-26,Batch-cooked Chicken Breast,382,49,19,9
+2024-01-26,Greek Yogurt + Berries,224,21,28,4
+2024-01-26,Greek Yogurt + Berries,209,17,26,3
+2024-01-26,Egg White Omelette,203,27,10,7
+2024-01-27,Mixed Nuts (Snack),217,5,6,13
+2024-01-27,Avocado Toast (Whole Grain),439,12,49,21
+2024-01-27,Lentil Soup,300,15,50,6
+2024-01-28,Mixed Nuts (Snack),182,6,7,16
+2024-01-28,Avocado Toast (Whole Grain),424,16,47,14
+2024-01-28,Greek Yogurt + Berries,222,19,29,4
+2024-01-29,Egg White Omelette,202,24,13,7
+2024-01-29,Ground Turkey Bowl,440,41,39,17
+2024-01-29,Batch-cooked Chicken Breast,418,45,15,12
+2024-01-29,Protein Shake,179,33,14,2
+2024-01-30,Greek Yogurt + Berries,220,18,31,6
+2024-01-30,Lentil Soup,298,17,53,6
+2024-01-30,Brown Rice + Veggies,354,9,60,4
+2024-01-30,Avocado Toast (Whole Grain),405,14,46,17
+2024-01-31,Mixed Nuts (Snack),194,5,10,13
+2024-01-31,Mixed Nuts (Snack),211,8,10,15
+2024-01-31,Mixed Nuts (Snack),161,6,6,17
+2024-01-31,Avocado Toast (Whole Grain),423,10,41,14
+2024-02-01,Mixed Nuts (Snack),165,6,8,17
+2024-02-01,Brown Rice + Veggies,363,13,73,5
+2024-02-01,Greek Yogurt + Berries,214,20,27,5
+2024-02-01,Brown Rice + Veggies,385,13,66,9
+2024-02-01,Mixed Nuts (Snack),167,7,7,13
+2024-02-02,Egg White Omelette,204,26,8,8
+2024-02-02,Batch-cooked Chicken Breast,388,54,15,9
+2024-02-02,Batch-cooked Chicken Breast,410,54,13,8
+2024-02-02,Ground Turkey Bowl,489,47,36,16
+2024-02-02,Egg White Omelette,295,23,7,6
+2024-02-03,Batch-cooked Chicken Breast,430,47,12,9
+2024-02-03,Greek Yogurt + Berries,185,20,34,7
+2024-02-03,Egg White Omelette,285,27,14,8
+2024-02-03,Batch-cooked Chicken Breast,425,50,16,13
+2024-02-04,Ground Turkey Bowl,424,38,32,13
+2024-02-04,Post-Workout Rice Cakes,142,5,28,1
+2024-02-04,Ground Turkey Bowl,507,40,38,17
+2024-02-04,Greek Yogurt + Berries,181,18,31,3
+2024-02-05,Brown Rice + Veggies,305,12,71,5
+2024-02-05,Brown Rice + Veggies,385,13,74,7
+2024-02-05,Greek Yogurt + Berries,183,19,27,5
+2024-02-05,Brown Rice + Veggies,337,9,61,7
+2024-02-05,Greek Yogurt + Berries,221,18,31,6
+2024-02-06,Greek Yogurt + Berries,197,20,32,4
+2024-02-06,Egg White Omelette,236,29,9,9
+2024-02-06,Egg White Omelette,257,27,8,6
+2024-02-07,Greek Yogurt + Berries,234,20,24,4
+2024-02-07,Protein Shake,159,30,10,2
+2024-02-07,Greek Yogurt + Berries,244,19,34,7
+2024-02-07,Batch-cooked Chicken Breast,420,44,15,10
+2024-02-07,Protein Shake,167,29,5,5
+2024-02-08,Incline Walk Fuel Bar,269,17,37,8
+2024-02-08,Avocado Toast (Whole Grain),352,10,53,19
+2024-02-08,Avocado Toast (Whole Grain),431,13,47,15
+2024-02-09,Greek Yogurt + Berries,219,17,28,5
+2024-02-09,Protein Shake,182,27,13,2
+2024-02-09,Ground Turkey Bowl,495,39,36,15
+2024-02-09,Ground Turkey Bowl,479,48,34,18
+2024-02-10,Protein Shake,192,34,14,4
+2024-02-10,Egg White Omelette,252,22,13,5
+2024-02-10,Batch-cooked Chicken Breast,460,45,10,10
+2024-02-11,Egg White Omelette,271,27,11,5
+2024-02-11,Greek Yogurt + Berries,204,17,29,4
+2024-02-11,Protein Shake,168,30,13,4
+2024-02-11,Greek Yogurt + Berries,186,18,26,3
+2024-02-11,Ground Turkey Bowl,460,40,46,11
+2024-02-12,Mixed Nuts (Snack),217,5,8,14
+2024-02-12,Protein Shake,191,29,7,3
+2024-02-12,Protein Shake,166,26,5,5
+2024-02-13,Cheeseburger + Fries,715,30,88,33
+2024-02-13,Protein Shake,164,26,14,4
+2024-02-13,Greek Yogurt + Berries,229,15,22,4
+2024-02-14,Post-Workout Rice Cakes,167,5,34,3
+2024-02-14,Lentil Soup,322,18,45,7
+2024-02-14,Lentil Soup,295,17,40,7
+2024-02-14,Post-Workout Rice Cakes,170,6,36,1
+2024-02-14,Incline Walk Fuel Bar,264,16,33,8
+2024-02-15,Brown Rice + Veggies,345,8,73,8
+2024-02-15,Lentil Soup,312,15,45,7
+2024-02-15,Avocado Toast (Whole Grain),367,11,46,14
+2024-02-15,Avocado Toast (Whole Grain),350,12,48,18
+2024-02-15,Brown Rice + Veggies,320,12,68,7
+2024-02-16,Protein Shake,140,27,5,2
+2024-02-16,Incline Walk Fuel Bar,239,12,33,7
+2024-02-16,Batch-cooked Chicken Breast,420,42,16,10
+2024-02-17,Greek Yogurt + Berries,228,18,30,3
+2024-02-17,Batch-cooked Chicken Breast,439,45,8,6
+2024-02-17,Incline Walk Fuel Bar,204,10,33,5
+2024-02-17,Mixed Nuts (Snack),165,6,10,16
+2024-02-18,Protein Shake,167,25,9,4
+2024-02-18,Ground Turkey Bowl,425,49,43,14
+2024-02-18,Greek Yogurt + Berries,223,15,30,3
+2024-02-18,Batch-cooked Chicken Breast,424,49,18,13
+2024-02-19,Batch-cooked Chicken Breast,459,51,12,13
+2024-02-19,Greek Yogurt + Berries,208,15,29,6
+2024-02-19,Batch-cooked Chicken Breast,392,51,18,10
+2024-02-19,Ground Turkey Bowl,491,44,39,11
+2024-02-20,Greek Yogurt + Berries,219,17,21,6
+2024-02-20,Mixed Nuts (Snack),218,7,6,15
+2024-02-20,Mixed Nuts (Snack),205,6,7,18
+2024-02-21,Mixed Nuts (Snack),180,5,9,18
+2024-02-21,Brown Rice + Veggies,334,8,74,7
+2024-02-21,Batch-cooked Chicken Breast,425,43,9,6
+2024-02-21,Brown Rice + Veggies,339,11,67,4
+2024-02-22,Avocado Toast (Whole Grain),398,17,45,16
+2024-02-22,Incline Walk Fuel Bar,242,10,32,7
+2024-02-22,Lentil Soup,368,20,41,5
+2024-02-22,Avocado Toast (Whole Grain),416,12,46,19
+2024-02-23,Egg White Omelette,260,29,11,8
+2024-02-23,Cheeseburger + Fries,942,39,72,46
+2024-02-23,Incline Walk Fuel Bar,271,12,38,5
+2024-02-24,Avocado Toast (Whole Grain),409,17,47,19
+2024-02-24,Brown Rice + Veggies,363,9,60,9
+2024-02-24,Incline Walk Fuel Bar,211,12,35,11
+2024-02-24,Incline Walk Fuel Bar,267,14,36,5
+2024-02-24,Post-Workout Rice Cakes,141,4,28,3
+2024-02-25,Mixed Nuts (Snack),203,7,9,16
+2024-02-25,Protein Shake,144,32,10,5
+2024-02-25,Cheeseburger + Fries,883,28,76,31
+2024-02-25,Protein Shake,175,34,10,5
+2024-02-25,Cheeseburger + Fries,810,36,75,30
+2024-02-26,Lentil Soup,285,15,42,7
+2024-02-26,Avocado Toast (Whole Grain),432,12,49,20
+2024-02-26,Brown Rice + Veggies,302,9,68,5
+2024-02-26,Mixed Nuts (Snack),187,7,10,14
+2024-02-26,Avocado Toast (Whole Grain),355,12,42,14
+2024-02-27,Ground Turkey Bowl,452,46,40,17
+2024-02-27,Ground Turkey Bowl,486,49,37,14
+2024-02-27,Batch-cooked Chicken Breast,415,54,12,8
+2024-02-27,Egg White Omelette,242,26,7,8
+2024-02-28,Ground Turkey Bowl,481,38,35,17
+2024-02-28,Protein Shake,162,30,12,3
+2024-02-28,Ground Turkey Bowl,468,48,43,11
+2024-02-28,Protein Shake,192,28,14,4
+2024-02-29,Post-Workout Rice Cakes,162,4,26,3
+2024-02-29,Brown Rice + Veggies,387,14,73,9
+2024-02-29,Incline Walk Fuel Bar,230,10,38,5
+2024-02-29,Lentil Soup,291,15,48,9
+2024-02-29,Avocado Toast (Whole Grain),444,14,53,14
+2024-03-01,Greek Yogurt + Berries,241,18,24,4
+2024-03-01,Batch-cooked Chicken Breast,452,46,19,13
+2024-03-01,Protein Shake,179,25,5,3
+2024-03-01,Protein Shake,141,27,10,5
+2024-03-01,Greek Yogurt + Berries,241,17,24,5
+2024-03-02,Brown Rice + Veggies,343,11,63,7
+2024-03-02,Avocado Toast (Whole Grain),395,17,48,19
+2024-03-02,Brown Rice + Veggies,345,9,59,9
+2024-03-03,Avocado Toast (Whole Grain),436,13,47,19
+2024-03-03,Brown Rice + Veggies,397,10,66,5
+2024-03-03,Avocado Toast (Whole Grain),361,10,48,20
+2024-03-04,Egg White Omelette,227,20,6,5
+2024-03-04,Cheeseburger + Fries,746,29,90,40
+2024-03-04,Lentil Soup,378,18,52,10
+2024-03-04,Egg White Omelette,241,26,6,5
+2024-03-04,Incline Walk Fuel Bar,250,14,39,8
+2024-03-05,Batch-cooked Chicken Breast,409,47,18,11
+2024-03-05,Greek Yogurt + Berries,213,20,33,7
+2024-03-05,Egg White Omelette,237,28,6,5
+2024-03-05,Egg White Omelette,274,24,7,6
+2024-03-06,Incline Walk Fuel Bar,203,11,35,11
+2024-03-06,Egg White Omelette,276,23,7,8
+2024-03-06,Protein Shake,163,27,6,3
+2024-03-06,Avocado Toast (Whole Grain),387,16,44,14
+2024-03-07,Egg White Omelette,277,22,7,6
+2024-03-07,Greek Yogurt + Berries,225,20,30,5
+2024-03-07,Protein Shake,191,30,5,2
+2024-03-07,Ground Turkey Bowl,451,45,32,15
+2024-03-07,Greek Yogurt + Berries,208,18,30,3
+2024-03-08,Egg White Omelette,260,20,10,6
+2024-03-08,Batch-cooked Chicken Breast,447,51,14,10
+2024-03-08,Protein Shake,150,31,6,5
+2024-03-09,Batch-cooked Chicken Breast,387,52,12,10
+2024-03-09,Ground Turkey Bowl,491,41,49,10
+2024-03-09,Protein Shake,188,28,10,5
+2024-03-10,Avocado Toast (Whole Grain),447,13,54,20
+2024-03-10,Greek Yogurt + Berries,243,18,29,3
+2024-03-10,Greek Yogurt + Berries,194,20,27,4
+2024-03-10,Mixed Nuts (Snack),178,5,9,15
+2024-03-10,Avocado Toast (Whole Grain),442,11,53,21
+2024-03-11,Incline Walk Fuel Bar,220,15,29,11
+2024-03-11,Lentil Soup,354,14,47,6
+2024-03-11,Lentil Soup,350,18,44,10
+2024-03-12,Avocado Toast (Whole Grain),412,11,46,16
+2024-03-12,Brown Rice + Veggies,381,9,70,8
+2024-03-12,Avocado Toast (Whole Grain),448,12,43,15
+2024-03-12,Incline Walk Fuel Bar,204,11,29,7
+2024-03-12,Incline Walk Fuel Bar,230,14,31,8
+2024-03-13,Mixed Nuts (Snack),198,5,10,14
+2024-03-13,Lentil Soup,310,18,49,5
+2024-03-13,Ground Turkey Bowl,421,43,38,19
+2024-03-13,Brown Rice + Veggies,319,13,63,4
+2024-03-14,Cheeseburger + Fries,833,37,89,40
+2024-03-14,Protein Shake,144,34,13,5
+2024-03-14,Mixed Nuts (Snack),184,7,6,17
+2024-03-15,Cheeseburger + Fries,837,38,85,46
+2024-03-15,Protein Shake,164,27,10,4
+2024-03-15,Mixed Nuts (Snack),169,8,11,17
+2024-03-15,Protein Shake,166,26,5,4
+2024-03-15,Mixed Nuts (Snack),208,5,11,18
+2024-03-16,Greek Yogurt + Berries,234,20,29,4
+2024-03-16,Greek Yogurt + Berries,215,21,24,4
+2024-03-16,Egg White Omelette,278,29,12,5
+2024-03-17,Protein Shake,149,30,5,4
+2024-03-17,Mixed Nuts (Snack),166,6,8,18
+2024-03-17,Protein Shake,159,34,5,5
+2024-03-18,Protein Shake,183,32,10,2
+2024-03-18,Mixed Nuts (Snack),188,5,6,13
+2024-03-18,Protein Shake,191,27,10,3
+2024-03-19,Batch-cooked Chicken Breast,434,53,15,10
+2024-03-19,Cheeseburger + Fries,703,39,80,40
+2024-03-19,Lentil Soup,285,21,51,9
+2024-03-19,Post-Workout Rice Cakes,137,5,27,3
+2024-03-20,Greek Yogurt + Berries,195,15,25,7
+2024-03-20,Protein Shake,193,28,7,3
+2024-03-20,Egg White Omelette,207,22,5,4
+2024-03-20,Protein Shake,179,29,14,2
+2024-03-21,Brown Rice + Veggies,353,9,67,7
+2024-03-21,Avocado Toast (Whole Grain),377,15,46,20
+2024-03-21,Mixed Nuts (Snack),192,5,10,17
+2024-03-21,Brown Rice + Veggies,336,10,67,6
+2024-03-21,Avocado Toast (Whole Grain),417,10,40,15
+2024-03-22,Avocado Toast (Whole Grain),448,14,50,15
+2024-03-22,Brown Rice + Veggies,343,13,72,4
+2024-03-22,Greek Yogurt + Berries,226,15,21,5
+2024-03-22,Avocado Toast (Whole Grain),419,12,48,20
+2024-03-22,Mixed Nuts (Snack),163,7,6,17
+2024-03-23,Avocado Toast (Whole Grain),433,13,44,14
+2024-03-23,Avocado Toast (Whole Grain),436,17,45,17
+2024-03-23,Lentil Soup,319,17,49,8
+2024-03-23,Post-Workout Rice Cakes,168,4,37,2
+2024-03-24,Lentil Soup,287,20,41,11
+2024-03-24,Avocado Toast (Whole Grain),364,16,51,16
+2024-03-24,Post-Workout Rice Cakes,132,6,33,3
+2024-03-25,Greek Yogurt + Berries,237,21,29,3
+2024-03-25,Brown Rice + Veggies,362,8,63,4
+2024-03-25,Avocado Toast (Whole Grain),431,17,45,20
+2024-03-26,Greek Yogurt + Berries,213,19,26,7
+2024-03-26,Cheeseburger + Fries,945,28,73,42
+2024-03-26,Lentil Soup,352,15,49,5
+2024-03-26,Mixed Nuts (Snack),180,6,8,14
+2024-03-27,Protein Shake,171,25,6,5
+2024-03-27,Protein Shake,193,29,11,3
+2024-03-27,Batch-cooked Chicken Breast,393,45,11,11
+2024-03-28,Lentil Soup,286,18,46,6
+2024-03-28,Lentil Soup,283,21,43,9
+2024-03-28,Brown Rice + Veggies,304,12,74,6
+2024-03-28,Post-Workout Rice Cakes,145,4,25,3
+2024-03-29,Lentil Soup,333,20,45,9
+2024-03-29,Incline Walk Fuel Bar,278,14,31,8
+2024-03-29,Post-Workout Rice Cakes,166,4,31,1
+2024-03-29,Post-Workout Rice Cakes,137,6,37,3
+2024-03-29,Post-Workout Rice Cakes,130,6,30,1
+2024-03-30,Ground Turkey Bowl,426,45,30,11
+2024-03-30,Avocado Toast (Whole Grain),408,14,43,14
+2024-03-30,Incline Walk Fuel Bar,261,10,32,8
+2024-03-30,Egg White Omelette,274,27,11,5
+2024-03-31,Cheeseburger + Fries,815,28,76,35
+2024-03-31,Protein Shake,175,25,14,5
+2024-03-31,Mixed Nuts (Snack),219,5,10,16
+2024-04-01,Lentil Soup,351,20,47,5
+2024-04-01,Avocado Toast (Whole Grain),390,12,45,16
+2024-04-01,Mixed Nuts (Snack),213,8,11,13
+2024-04-01,Brown Rice + Veggies,359,14,69,6
+2024-04-01,Greek Yogurt + Berries,207,17,32,7
+2024-04-02,Protein Shake,184,28,12,4
+2024-04-02,Ground Turkey Bowl,492,44,42,15
+2024-04-02,Ground Turkey Bowl,437,40,32,11
+2024-04-02,Batch-cooked Chicken Breast,385,43,15,6
+2024-04-02,Protein Shake,151,26,10,2
+2024-04-03,Brown Rice + Veggies,398,9,59,5
+2024-04-03,Lentil Soup,335,16,50,8
+2024-04-03,Brown Rice + Veggies,333,12,59,4
+2024-04-04,Ground Turkey Bowl,427,49,44,19
+2024-04-04,Protein Shake,184,25,6,3
+2024-04-04,Egg White Omelette,295,27,8,4
+2024-04-04,Egg White Omelette,293,21,5,9
+2024-04-04,Greek Yogurt + Berries,229,16,30,5
+2024-04-05,Ground Turkey Bowl,459,49,42,10
+2024-04-05,Greek Yogurt + Berries,191,19,30,6
+2024-04-05,Batch-cooked Chicken Breast,428,45,15,13
+2024-04-06,Greek Yogurt + Berries,238,17,31,5
+2024-04-06,Protein Shake,173,34,13,2
+2024-04-06,Greek Yogurt + Berries,225,16,21,3
+2024-04-07,Mixed Nuts (Snack),174,5,9,16
+2024-04-07,Brown Rice + Veggies,306,10,64,4
+2024-04-07,Lentil Soup,349,14,49,11
+2024-04-08,Post-Workout Rice Cakes,127,4,34,3
+2024-04-08,Lentil Soup,284,21,52,8
+2024-04-08,Lentil Soup,358,15,41,10
+2024-04-08,Lentil Soup,312,20,44,11
+2024-04-08,Lentil Soup,358,19,50,8
+2024-04-09,Cheeseburger + Fries,723,38,91,38
+2024-04-09,Mixed Nuts (Snack),193,5,9,15
+2024-04-09,Cheeseburger + Fries,727,33,86,39
+2024-04-10,Post-Workout Rice Cakes,155,6,34,2
+2024-04-10,Lentil Soup,299,19,54,5
+2024-04-10,Lentil Soup,303,15,46,7
+2024-04-11,Egg White Omelette,251,25,13,9
+2024-04-11,Ground Turkey Bowl,470,45,36,11
+2024-04-11,Batch-cooked Chicken Breast,473,46,19,6
+2024-04-11,Batch-cooked Chicken Breast,458,42,11,9
+2024-04-12,Batch-cooked Chicken Breast,416,51,8,10
+2024-04-12,Mixed Nuts (Snack),214,6,11,18
+2024-04-12,Incline Walk Fuel Bar,202,17,38,7
+2024-04-12,Cheeseburger + Fries,918,38,86,42
+2024-04-12,Egg White Omelette,299,29,10,6
+2024-04-13,Greek Yogurt + Berries,188,21,20,7
+2024-04-13,Mixed Nuts (Snack),218,7,7,16
+2024-04-13,Protein Shake,159,29,6,4
+2024-04-14,Protein Shake,146,33,13,5
+2024-04-14,Ground Turkey Bowl,469,49,39,17
+2024-04-14,Greek Yogurt + Berries,216,21,26,7
+2024-04-14,Ground Turkey Bowl,452,49,31,11
+2024-04-15,Brown Rice + Veggies,312,8,57,5
+2024-04-15,Avocado Toast (Whole Grain),446,14,41,18
+2024-04-15,Mixed Nuts (Snack),191,6,10,16
+2024-04-15,Avocado Toast (Whole Grain),408,13,42,17
+2024-04-15,Greek Yogurt + Berries,223,20,22,4
+2024-04-16,Mixed Nuts (Snack),202,8,9,17
+2024-04-16,Greek Yogurt + Berries,222,17,24,6
+2024-04-16,Avocado Toast (Whole Grain),428,12,42,18
+2024-04-16,Lentil Soup,323,15,45,6
+2024-04-16,Greek Yogurt + Berries,189,20,33,7
+2024-04-17,Cheeseburger + Fries,754,31,80,42
+2024-04-17,Cheeseburger + Fries,813,37,70,41
+2024-04-17,Protein Shake,145,33,13,3
+2024-04-17,Mixed Nuts (Snack),205,7,7,13
+2024-04-17,Protein Shake,150,32,14,3
+2024-04-18,Cheeseburger + Fries,811,32,79,40
+2024-04-18,Mixed Nuts (Snack),214,7,11,18
+2024-04-18,Post-Workout Rice Cakes,159,3,27,1
+2024-04-19,Greek Yogurt + Berries,224,18,24,4
+2024-04-19,Avocado Toast (Whole Grain),389,10,40,20
+2024-04-19,Incline Walk Fuel Bar,278,15,30,6
+2024-04-20,Greek Yogurt + Berries,219,21,26,7
+2024-04-20,Greek Yogurt + Berries,241,19,22,7
+2024-04-20,Avocado Toast (Whole Grain),395,10,46,21
+2024-04-20,Mixed Nuts (Snack),181,8,7,13
+2024-04-21,Mixed Nuts (Snack),178,8,8,15
+2024-04-21,Brown Rice + Veggies,359,14,67,5
+2024-04-21,Avocado Toast (Whole Grain),441,17,51,17
+2024-04-22,Ground Turkey Bowl,434,47,34,11
+2024-04-22,Greek Yogurt + Berries,247,17,32,4
+2024-04-22,Egg White Omelette,230,27,14,8
+2024-04-22,Ground Turkey Bowl,480,39,37,18
+2024-04-22,Batch-cooked Chicken Breast,471,52,16,7
+2024-04-23,Brown Rice + Veggies,341,12,74,5
+2024-04-23,Avocado Toast (Whole Grain),367,10,41,19
+2024-04-23,Brown Rice + Veggies,304,10,72,8
+2024-04-23,Mixed Nuts (Snack),201,8,10,15
+2024-04-23,Greek Yogurt + Berries,202,17,20,4
+2024-04-24,Lentil Soup,307,19,51,8
+2024-04-24,Post-Workout Rice Cakes,173,6,25,2
+2024-04-24,Incline Walk Fuel Bar,255,17,36,9
+2024-04-24,Brown Rice + Veggies,318,12,61,4
+2024-04-25,Post-Workout Rice Cakes,148,5,34,3
+2024-04-25,Brown Rice + Veggies,345,12,63,9
+2024-04-25,Incline Walk Fuel Bar,268,12,34,9
+2024-04-25,Brown Rice + Veggies,383,14,60,8
+2024-04-26,Post-Workout Rice Cakes,164,3,33,1
+2024-04-26,Greek Yogurt + Berries,236,17,21,7
+2024-04-26,Batch-cooked Chicken Breast,446,43,10,11
+2024-04-26,Incline Walk Fuel Bar,251,13,37,5
+2024-04-26,Avocado Toast (Whole Grain),368,12,42,21
+2024-04-27,Post-Workout Rice Cakes,144,5,37,2
+2024-04-27,Post-Workout Rice Cakes,138,5,28,1
+2024-04-27,Incline Walk Fuel Bar,257,10,35,9
+2024-04-27,Brown Rice + Veggies,359,9,62,8
+2024-04-28,Egg White Omelette,250,28,10,5
+2024-04-28,Protein Shake,192,28,11,4
+2024-04-28,Ground Turkey Bowl,486,43,42,16
+2024-04-29,Brown Rice + Veggies,360,14,74,7
+2024-04-29,Incline Walk Fuel Bar,276,14,30,10
+2024-04-29,Avocado Toast (Whole Grain),414,10,53,14
+2024-04-29,Post-Workout Rice Cakes,141,4,36,3
+2024-04-29,Brown Rice + Veggies,364,9,62,9
+2024-04-30,Avocado Toast (Whole Grain),387,14,49,20
+2024-04-30,Lentil Soup,373,19,41,8
+2024-04-30,Avocado Toast (Whole Grain),411,11,43,20
+2024-04-30,Brown Rice + Veggies,393,11,58,4
+2024-04-30,Avocado Toast (Whole Grain),365,15,42,17
+2024-05-01,Brown Rice + Veggies,301,13,57,7
+2024-05-01,Ground Turkey Bowl,495,41,43,18
+2024-05-01,Lentil Soup,363,21,46,7
+2024-05-02,Greek Yogurt + Berries,211,20,32,7
+2024-05-02,Egg White Omelette,210,22,9,5
+2024-05-02,Greek Yogurt + Berries,227,18,27,4
+2024-05-03,Lentil Soup,332,19,53,11
+2024-05-03,Avocado Toast (Whole Grain),435,15,53,20
+2024-05-03,Brown Rice + Veggies,309,11,61,9
+2024-05-03,Brown Rice + Veggies,366,10,74,4
+2024-05-04,Mixed Nuts (Snack),204,8,7,18
+2024-05-04,Lentil Soup,336,20,43,9
+2024-05-04,Greek Yogurt + Berries,208,18,24,6
+2024-05-04,Greek Yogurt + Berries,197,17,29,6
+2024-05-05,Mixed Nuts (Snack),181,6,11,18
+2024-05-05,Mixed Nuts (Snack),198,5,6,14
+2024-05-05,Brown Rice + Veggies,313,13,60,8
+2024-05-05,Avocado Toast (Whole Grain),366,13,49,20
+2024-05-06,Batch-cooked Chicken Breast,453,44,18,11
+2024-05-06,Ground Turkey Bowl,429,49,43,19
+2024-05-06,Greek Yogurt + Berries,210,20,30,7
+2024-05-07,Brown Rice + Veggies,374,14,58,6
+2024-05-07,Greek Yogurt + Berries,209,18,22,5
+2024-05-07,Lentil Soup,345,19,52,11
+2024-05-07,Mixed Nuts (Snack),160,5,6,17
+2024-05-08,Brown Rice + Veggies,342,14,67,8
+2024-05-08,Mixed Nuts (Snack),201,6,11,17
+2024-05-08,Avocado Toast (Whole Grain),362,16,48,18
+2024-05-08,Greek Yogurt + Berries,203,15,34,5
+2024-05-08,Avocado Toast (Whole Grain),444,17,51,16
+2024-05-09,Cheeseburger + Fries,775,39,90,49
+2024-05-09,Mixed Nuts (Snack),190,6,8,15
+2024-05-09,Mixed Nuts (Snack),163,5,9,17
+2024-05-09,Protein Shake,190,28,6,3
+2024-05-09,Mixed Nuts (Snack),191,8,6,17
+2024-05-10,Cheeseburger + Fries,766,36,83,35
+2024-05-10,Mixed Nuts (Snack),174,8,7,13
+2024-05-10,Mixed Nuts (Snack),201,7,8,17
+2024-05-11,Egg White Omelette,223,29,10,8
+2024-05-11,Batch-cooked Chicken Breast,436,53,9,10
+2024-05-11,Ground Turkey Bowl,465,46,49,12
+2024-05-12,Egg White Omelette,275,23,9,5
+2024-05-12,Egg White Omelette,238,24,12,9
+2024-05-12,Egg White Omelette,259,23,5,8
+2024-05-12,Batch-cooked Chicken Breast,479,46,19,6
+2024-05-13,Protein Shake,156,26,12,4
+2024-05-13,Lentil Soup,318,16,53,9
+2024-05-13,Mixed Nuts (Snack),202,8,9,17
+2024-05-13,Ground Turkey Bowl,461,40,47,14
+2024-05-14,Avocado Toast (Whole Grain),416,14,41,14
+2024-05-14,Lentil Soup,306,15,49,10
+2024-05-14,Brown Rice + Veggies,340,11,58,5
+2024-05-14,Brown Rice + Veggies,326,14,55,5
+2024-05-14,Greek Yogurt + Berries,198,21,23,5
+2024-05-15,Mixed Nuts (Snack),184,5,10,18
+2024-05-15,Mixed Nuts (Snack),181,5,11,13
+2024-05-15,Protein Shake,149,29,5,5
+2024-05-16,Brown Rice + Veggies,353,8,70,7
+2024-05-16,Post-Workout Rice Cakes,150,3,35,3
+2024-05-16,Protein Shake,192,30,10,4
+2024-05-16,Ground Turkey Bowl,503,48,39,17
+2024-05-17,Protein Shake,179,30,7,5
+2024-05-17,Batch-cooked Chicken Breast,395,54,15,12
+2024-05-17,Protein Shake,191,25,14,5
+2024-05-17,Batch-cooked Chicken Breast,408,54,10,7
+2024-05-18,Cheeseburger + Fries,758,33,76,36
+2024-05-18,Ground Turkey Bowl,480,41,40,11
+2024-05-18,Cheeseburger + Fries,735,32,93,40
+2024-05-18,Mixed Nuts (Snack),182,7,10,18
+2024-05-18,Protein Shake,162,34,8,4
+2024-05-19,Lentil Soup,377,18,44,9
+2024-05-19,Avocado Toast (Whole Grain),396,13,52,21
+2024-05-19,Greek Yogurt + Berries,208,16,32,5
+2024-05-20,Batch-cooked Chicken Breast,439,43,14,12
+2024-05-20,Ground Turkey Bowl,489,41,35,13
+2024-05-20,Protein Shake,169,34,5,5
+2024-05-20,Protein Shake,174,34,11,4
+2024-05-20,Protein Shake,140,30,6,2
+2024-05-21,Incline Walk Fuel Bar,266,10,28,10
+2024-05-21,Post-Workout Rice Cakes,166,6,26,2
+2024-05-21,Lentil Soup,341,16,53,5
+2024-05-21,Incline Walk Fuel Bar,255,13,39,5
+2024-05-21,Post-Workout Rice Cakes,144,5,26,2
+2024-05-22,Ground Turkey Bowl,516,43,35,18
+2024-05-22,Greek Yogurt + Berries,220,19,31,6
+2024-05-22,Protein Shake,148,34,8,4
+2024-05-23,Post-Workout Rice Cakes,172,5,29,3
+2024-05-23,Avocado Toast (Whole Grain),379,13,49,16
+2024-05-23,Post-Workout Rice Cakes,126,3,34,2
+2024-05-23,Avocado Toast (Whole Grain),385,17,48,19
+2024-05-23,Post-Workout Rice Cakes,135,4,34,2
+2024-05-24,Lentil Soup,309,15,46,6
+2024-05-24,Lentil Soup,282,16,40,8
+2024-05-24,Avocado Toast (Whole Grain),436,17,42,21
+2024-05-24,Mixed Nuts (Snack),172,5,9,13
+2024-05-24,Lentil Soup,291,15,46,11
+2024-05-25,Greek Yogurt + Berries,194,16,25,7
+2024-05-25,Mixed Nuts (Snack),196,6,10,17
+2024-05-25,Mixed Nuts (Snack),181,5,10,18
+2024-05-26,Incline Walk Fuel Bar,279,14,33,5
+2024-05-26,Incline Walk Fuel Bar,253,14,34,10
+2024-05-26,Post-Workout Rice Cakes,167,3,25,1
+2024-05-27,Lentil Soup,291,16,46,7
+2024-05-27,Brown Rice + Veggies,362,14,73,8
+2024-05-27,Lentil Soup,304,20,42,11
+2024-05-27,Mixed Nuts (Snack),194,6,10,14
+2024-05-28,Cheeseburger + Fries,747,31,82,49
+2024-05-28,Mixed Nuts (Snack),196,6,10,13
+2024-05-28,Cheeseburger + Fries,917,36,86,44
+2024-05-28,Cheeseburger + Fries,746,38,94,45
+2024-05-29,Ground Turkey Bowl,512,41,40,14
+2024-05-29,Batch-cooked Chicken Breast,455,42,18,11
+2024-05-29,Batch-cooked Chicken Breast,398,48,12,8
+2024-05-29,Egg White Omelette,237,21,8,7
+2024-05-30,Brown Rice + Veggies,344,12,70,9
+2024-05-30,Mixed Nuts (Snack),187,5,10,13
+2024-05-30,Avocado Toast (Whole Grain),424,14,47,20
+2024-05-30,Brown Rice + Veggies,371,8,65,8
+2024-05-30,Lentil Soup,345,15,49,5
+2024-05-31,Greek Yogurt + Berries,226,19,31,6
+2024-05-31,Protein Shake,168,34,10,3
+2024-05-31,Batch-cooked Chicken Breast,425,45,9,10
+2024-06-01,Brown Rice + Veggies,356,8,73,4
+2024-06-01,Avocado Toast (Whole Grain),417,13,45,19
+2024-06-01,Cheeseburger + Fries,776,35,80,43
+2024-06-01,Batch-cooked Chicken Breast,421,49,11,7
+2024-06-02,Egg White Omelette,231,20,5,4
+2024-06-02,Batch-cooked Chicken Breast,405,50,19,6
+2024-06-02,Batch-cooked Chicken Breast,414,42,19,12
+2024-06-03,Brown Rice + Veggies,346,11,59,6
+2024-06-03,Greek Yogurt + Berries,230,20,34,3
+2024-06-03,Brown Rice + Veggies,349,13,56,5
+2024-06-03,Greek Yogurt + Berries,213,17,32,5
+2024-06-03,Brown Rice + Veggies,366,12,70,9
+2024-06-04,Avocado Toast (Whole Grain),442,16,52,17
+2024-06-04,Brown Rice + Veggies,366,9,63,5
+2024-06-04,Post-Workout Rice Cakes,154,5,33,3
+2024-06-04,Avocado Toast (Whole Grain),380,15,53,16
+2024-06-05,Egg White Omelette,212,21,9,6
+2024-06-05,Avocado Toast (Whole Grain),356,14,44,17
+2024-06-05,Egg White Omelette,284,22,10,5
+2024-06-05,Post-Workout Rice Cakes,158,3,26,2
+2024-06-06,Protein Shake,141,29,5,5
+2024-06-06,Batch-cooked Chicken Breast,411,51,18,6
+2024-06-06,Greek Yogurt + Berries,249,19,30,6
+2024-06-07,Lentil Soup,319,18,45,10
+2024-06-07,Brown Rice + Veggies,380,12,56,9
+2024-06-07,Incline Walk Fuel Bar,247,14,35,6
+2024-06-07,Avocado Toast (Whole Grain),354,11,43,16
+2024-06-07,Brown Rice + Veggies,388,13,66,8
+2024-06-08,Lentil Soup,330,16,50,11
+2024-06-08,Cheeseburger + Fries,836,38,88,39
+2024-06-08,Greek Yogurt + Berries,231,17,22,7
+2024-06-08,Mixed Nuts (Snack),192,6,11,13
+2024-06-09,Incline Walk Fuel Bar,228,13,36,7
+2024-06-09,Post-Workout Rice Cakes,167,4,31,1
+2024-06-09,Brown Rice + Veggies,338,11,55,7
+2024-06-10,Protein Shake,199,32,9,2
+2024-06-10,Avocado Toast (Whole Grain),403,13,46,19
+2024-06-10,Incline Walk Fuel Bar,263,10,37,11
+2024-06-10,Incline Walk Fuel Bar,240,15,31,10
+2024-06-11,Mixed Nuts (Snack),208,8,8,14
+2024-06-11,Cheeseburger + Fries,899,32,81,47
+2024-06-11,Mixed Nuts (Snack),210,7,9,14
+2024-06-12,Greek Yogurt + Berries,218,16,23,3
+2024-06-12,Greek Yogurt + Berries,228,17,25,7
+2024-06-12,Batch-cooked Chicken Breast,384,54,9,13
+2024-06-13,Batch-cooked Chicken Breast,427,45,16,7
+2024-06-13,Greek Yogurt + Berries,200,20,23,5
+2024-06-13,Batch-cooked Chicken Breast,389,45,11,8
+2024-06-13,Egg White Omelette,237,23,10,8
+2024-06-14,Batch-cooked Chicken Breast,422,42,19,7
+2024-06-14,Batch-cooked Chicken Breast,396,43,13,8
+2024-06-14,Batch-cooked Chicken Breast,404,42,12,12
+2024-06-14,Egg White Omelette,201,29,10,4
+2024-06-15,Protein Shake,193,30,8,5
+2024-06-15,Cheeseburger + Fries,946,32,84,30
+2024-06-15,Protein Shake,143,34,6,5
+2024-06-15,Protein Shake,185,30,11,3
+2024-06-16,Greek Yogurt + Berries,186,18,24,7
+2024-06-16,Greek Yogurt + Berries,190,19,21,5
+2024-06-16,Protein Shake,197,28,9,2
+2024-06-17,Egg White Omelette,227,24,12,5
+2024-06-17,Ground Turkey Bowl,471,45,47,19
+2024-06-17,Batch-cooked Chicken Breast,388,43,19,9
+2024-06-17,Protein Shake,174,26,12,5
+2024-06-17,Egg White Omelette,264,29,9,4
+2024-06-18,Greek Yogurt + Berries,202,20,27,6
+2024-06-18,Post-Workout Rice Cakes,166,4,26,3
+2024-06-18,Batch-cooked Chicken Breast,411,50,8,7
+2024-06-18,Greek Yogurt + Berries,184,16,29,3
+2024-06-19,Cheeseburger + Fries,717,37,88,46
+2024-06-19,Post-Workout Rice Cakes,122,4,27,1
+2024-06-19,Protein Shake,147,29,10,2
+2024-06-19,Lentil Soup,283,15,40,6
+2024-06-19,Protein Shake,198,27,8,3
+2024-06-20,Protein Shake,162,27,6,3
+2024-06-20,Post-Workout Rice Cakes,167,3,37,1
+2024-06-20,Lentil Soup,309,18,46,8
+2024-06-20,Brown Rice + Veggies,326,8,68,8
+2024-06-20,Avocado Toast (Whole Grain),394,16,46,14
+2024-06-21,Cheeseburger + Fries,818,36,87,39
+2024-06-21,Mixed Nuts (Snack),200,7,8,15
+2024-06-21,Mixed Nuts (Snack),180,5,6,16
+2024-06-21,Mixed Nuts (Snack),183,7,9,14
+2024-06-22,Mixed Nuts (Snack),212,5,9,14
+2024-06-22,Cheeseburger + Fries,812,29,73,48
+2024-06-22,Lentil Soup,356,14,41,9
+2024-06-22,Post-Workout Rice Cakes,179,6,36,2
+2024-06-22,Brown Rice + Veggies,348,12,68,9
+2024-06-23,Avocado Toast (Whole Grain),423,13,40,20
+2024-06-23,Brown Rice + Veggies,310,13,73,8
+2024-06-23,Lentil Soup,317,21,49,7
+2024-06-24,Egg White Omelette,276,28,14,5
+2024-06-24,Egg White Omelette,279,23,7,8
+2024-06-24,Greek Yogurt + Berries,217,15,20,6
+2024-06-24,Egg White Omelette,218,20,9,6
+2024-06-25,Batch-cooked Chicken Breast,474,44,9,11
+2024-06-25,Greek Yogurt + Berries,239,19,30,4
+2024-06-25,Mixed Nuts (Snack),175,5,10,13
+2024-06-25,Cheeseburger + Fries,766,39,86,35
+2024-06-26,Greek Yogurt + Berries,213,21,25,6
+2024-06-26,Greek Yogurt + Berries,189,15,33,4
+2024-06-26,Protein Shake,140,26,13,4
+2024-06-26,Greek Yogurt + Berries,199,18,34,7
+2024-06-27,Protein Shake,151,27,8,3
+2024-06-27,Batch-cooked Chicken Breast,418,46,16,8
+2024-06-27,Ground Turkey Bowl,424,41,40,10
+2024-06-27,Protein Shake,179,27,10,5
+2024-06-28,Brown Rice + Veggies,332,12,62,8
+2024-06-28,Lentil Soup,286,19,43,9
+2024-06-28,Post-Workout Rice Cakes,126,6,28,2
+2024-06-28,Incline Walk Fuel Bar,265,15,28,5
+2024-06-29,Post-Workout Rice Cakes,173,4,31,1
+2024-06-29,Avocado Toast (Whole Grain),397,14,40,17
+2024-06-29,Incline Walk Fuel Bar,276,10,34,10
+2024-06-29,Lentil Soup,337,15,45,5
+2024-06-30,Protein Shake,153,30,12,2
+2024-06-30,Protein Shake,150,31,6,4
+2024-06-30,Greek Yogurt + Berries,183,20,25,6
+2024-06-30,Greek Yogurt + Berries,230,18,25,7
+2024-06-30,Batch-cooked Chicken Breast,477,50,8,13
+2024-07-01,Avocado Toast (Whole Grain),444,14,40,16
+2024-07-01,Incline Walk Fuel Bar,234,13,30,7
+2024-07-01,Incline Walk Fuel Bar,260,14,29,9
+2024-07-02,Batch-cooked Chicken Breast,433,45,11,13
+2024-07-02,Batch-cooked Chicken Breast,412,52,10,8
+2024-07-02,Egg White Omelette,273,23,12,6
+2024-07-02,Batch-cooked Chicken Breast,446,50,15,12
+2024-07-02,Ground Turkey Bowl,483,40,45,14
+2024-07-03,Mixed Nuts (Snack),206,5,8,14
+2024-07-03,Protein Shake,177,28,13,3
+2024-07-03,Cheeseburger + Fries,737,30,91,38
+2024-07-03,Cheeseburger + Fries,713,38,79,30
+2024-07-03,Cheeseburger + Fries,733,38,73,48
+2024-07-04,Avocado Toast (Whole Grain),401,17,45,18
+2024-07-04,Greek Yogurt + Berries,193,19,32,6
+2024-07-04,Avocado Toast (Whole Grain),433,13,42,17
+2024-07-04,Greek Yogurt + Berries,241,18,26,5
+2024-07-05,Protein Shake,155,34,13,2
+2024-07-05,Mixed Nuts (Snack),164,8,10,15
+2024-07-05,Protein Shake,160,28,12,4
+2024-07-05,Mixed Nuts (Snack),210,7,7,17
+2024-07-05,Protein Shake,159,30,6,4
+2024-07-06,Incline Walk Fuel Bar,218,11,30,11
+2024-07-06,Post-Workout Rice Cakes,148,4,27,1
+2024-07-06,Post-Workout Rice Cakes,161,3,31,3
+2024-07-06,Avocado Toast (Whole Grain),363,10,54,14
+2024-07-07,Brown Rice + Veggies,386,8,58,7
+2024-07-07,Ground Turkey Bowl,481,39,42,18
+2024-07-07,Incline Walk Fuel Bar,254,14,35,11
+2024-07-08,Cheeseburger + Fries,949,28,78,41
+2024-07-08,Mixed Nuts (Snack),213,8,7,14
+2024-07-08,Cheeseburger + Fries,863,39,89,32
+2024-07-08,Protein Shake,157,28,13,4
+2024-07-09,Avocado Toast (Whole Grain),420,11,51,15
+2024-07-09,Post-Workout Rice Cakes,126,3,33,1
+2024-07-09,Avocado Toast (Whole Grain),378,10,47,17
+2024-07-10,Post-Workout Rice Cakes,169,3,27,3
+2024-07-10,Avocado Toast (Whole Grain),418,10,42,20
+2024-07-10,Lentil Soup,349,17,54,5
+2024-07-10,Incline Walk Fuel Bar,252,13,28,5
+2024-07-10,Brown Rice + Veggies,339,14,68,5
+2024-07-11,Brown Rice + Veggies,340,9,60,6
+2024-07-11,Avocado Toast (Whole Grain),440,17,44,16
+2024-07-11,Lentil Soup,334,18,52,5
+2024-07-12,Avocado Toast (Whole Grain),363,11,48,21
+2024-07-12,Avocado Toast (Whole Grain),420,17,52,16
+2024-07-12,Brown Rice + Veggies,326,12,71,9
+2024-07-13,Brown Rice + Veggies,378,11,71,4
+2024-07-13,Lentil Soup,286,21,44,6
+2024-07-13,Lentil Soup,295,20,53,10
+2024-07-13,Brown Rice + Veggies,340,12,70,6
+2024-07-14,Greek Yogurt + Berries,193,15,34,4
+2024-07-14,Greek Yogurt + Berries,227,17,33,7
+2024-07-14,Mixed Nuts (Snack),193,8,8,14
+2024-07-14,Mixed Nuts (Snack),187,8,9,18
+2024-07-14,Avocado Toast (Whole Grain),358,11,48,15
+2024-07-15,Lentil Soup,326,14,42,5
+2024-07-15,Greek Yogurt + Berries,209,17,20,4
+2024-07-15,Brown Rice + Veggies,366,13,63,4
+2024-07-15,Mixed Nuts (Snack),166,5,7,16
+2024-07-16,Avocado Toast (Whole Grain),389,11,41,14
+2024-07-16,Incline Walk Fuel Bar,225,14,35,11
+2024-07-16,Post-Workout Rice Cakes,167,4,26,2
+2024-07-16,Post-Workout Rice Cakes,122,3,25,3
+2024-07-17,Mixed Nuts (Snack),164,7,6,14
+2024-07-17,Greek Yogurt + Berries,214,15,34,4
+2024-07-17,Brown Rice + Veggies,320,10,66,4
+2024-07-17,Ground Turkey Bowl,505,39,32,14
+2024-07-17,Cheeseburger + Fries,700,38,71,37
+2024-07-18,Post-Workout Rice Cakes,170,5,28,3
+2024-07-18,Incline Walk Fuel Bar,213,12,39,5
+2024-07-18,Brown Rice + Veggies,367,10,71,9
+2024-07-19,Cheeseburger + Fries,712,34,92,35
+2024-07-19,Cheeseburger + Fries,800,31,80,38
+2024-07-19,Protein Shake,151,29,8,5
+2024-07-19,Mixed Nuts (Snack),162,5,9,16
+2024-07-19,Protein Shake,194,30,12,4
+2024-07-20,Cheeseburger + Fries,760,39,73,31
+2024-07-20,Protein Shake,140,34,11,3
+2024-07-20,Cheeseburger + Fries,773,37,86,49
+2024-07-20,Protein Shake,192,34,14,2
+2024-07-21,Incline Walk Fuel Bar,279,16,34,9
+2024-07-21,Incline Walk Fuel Bar,256,15,36,9
+2024-07-21,Avocado Toast (Whole Grain),417,10,40,20
+2024-07-21,Lentil Soup,345,18,42,8
+2024-07-22,Greek Yogurt + Berries,197,21,21,4
+2024-07-22,Egg White Omelette,231,25,14,9
+2024-07-22,Greek Yogurt + Berries,249,21,29,3
+2024-07-23,Lentil Soup,291,19,42,10
+2024-07-23,Protein Shake,180,27,10,2
+2024-07-23,Post-Workout Rice Cakes,130,3,36,1
+2024-07-23,Lentil Soup,285,19,48,6
+2024-07-24,Greek Yogurt + Berries,243,21,24,6
+2024-07-24,Greek Yogurt + Berries,202,15,32,6
+2024-07-24,Protein Shake,143,26,10,5
+2024-07-24,Ground Turkey Bowl,505,46,42,16
+2024-07-25,Greek Yogurt + Berries,230,16,34,5
+2024-07-25,Greek Yogurt + Berries,187,21,22,6
+2024-07-25,Avocado Toast (Whole Grain),409,10,45,18
+2024-07-26,Mixed Nuts (Snack),198,7,6,15
+2024-07-26,Cheeseburger + Fries,929,38,82,36
+2024-07-26,Protein Shake,199,30,5,4
+2024-07-27,Brown Rice + Veggies,373,8,64,6
+2024-07-27,Brown Rice + Veggies,383,13,61,4
+2024-07-27,Brown Rice + Veggies,388,8,59,6
+2024-07-27,Lentil Soup,346,20,47,11
+2024-07-28,Incline Walk Fuel Bar,206,12,33,6
+2024-07-28,Post-Workout Rice Cakes,124,6,32,3
+2024-07-28,Avocado Toast (Whole Grain),427,13,49,15
+2024-07-28,Brown Rice + Veggies,334,11,73,4
+2024-07-29,Protein Shake,155,30,12,2
+2024-07-29,Ground Turkey Bowl,474,46,31,15
+2024-07-29,Greek Yogurt + Berries,218,17,25,4
+2024-07-30,Post-Workout Rice Cakes,128,4,37,3
+2024-07-30,Post-Workout Rice Cakes,170,4,33,3
+2024-07-30,Brown Rice + Veggies,387,12,74,8
+2024-07-30,Lentil Soup,313,15,41,10
+2024-07-30,Brown Rice + Veggies,322,10,67,4
+2024-07-31,Avocado Toast (Whole Grain),352,16,54,17
+2024-07-31,Mixed Nuts (Snack),201,6,9,14
+2024-07-31,Avocado Toast (Whole Grain),425,17,46,18
+2024-07-31,Greek Yogurt + Berries,234,16,31,3
+2024-08-01,Egg White Omelette,222,26,10,5
+2024-08-01,Protein Shake,171,34,12,2
+2024-08-01,Batch-cooked Chicken Breast,424,47,14,11
+2024-08-02,Avocado Toast (Whole Grain),390,16,49,17
+2024-08-02,Avocado Toast (Whole Grain),434,17,43,15
+2024-08-02,Incline Walk Fuel Bar,242,15,36,5
+2024-08-03,Brown Rice + Veggies,361,14,68,9
+2024-08-03,Incline Walk Fuel Bar,244,13,29,11
+2024-08-03,Post-Workout Rice Cakes,144,5,32,1
+2024-08-04,Brown Rice + Veggies,333,8,65,4
+2024-08-04,Brown Rice + Veggies,361,14,57,9
+2024-08-04,Lentil Soup,286,17,41,5
+2024-08-04,Avocado Toast (Whole Grain),351,12,42,20
+2024-08-04,Avocado Toast (Whole Grain),414,12,44,16
+2024-08-05,Incline Walk Fuel Bar,240,17,38,5
+2024-08-05,Post-Workout Rice Cakes,167,6,31,1
+2024-08-05,Egg White Omelette,264,21,5,4
+2024-08-05,Protein Shake,197,28,8,5
+2024-08-05,Protein Shake,196,29,11,5
+2024-08-06,Protein Shake,168,28,13,2
+2024-08-06,Greek Yogurt + Berries,227,15,27,4
+2024-08-06,Greek Yogurt + Berries,207,21,22,6
+2024-08-07,Protein Shake,193,31,12,2
+2024-08-07,Protein Shake,148,34,6,3
+2024-08-07,Mixed Nuts (Snack),184,5,6,18
+2024-08-07,Mixed Nuts (Snack),205,8,6,13
+2024-08-08,Brown Rice + Veggies,394,14,58,8
+2024-08-08,Ground Turkey Bowl,430,39,43,16
+2024-08-08,Brown Rice + Veggies,330,9,64,6
+2024-08-08,Incline Walk Fuel Bar,227,15,38,5
+2024-08-09,Lentil Soup,298,17,41,11
+2024-08-09,Brown Rice + Veggies,365,11,55,8
+2024-08-09,Ground Turkey Bowl,431,45,36,14
+2024-08-10,Brown Rice + Veggies,362,8,67,9
+2024-08-10,Cheeseburger + Fries,893,33,86,39
+2024-08-10,Cheeseburger + Fries,766,33,81,36
+2024-08-11,Brown Rice + Veggies,343,14,55,5
+2024-08-11,Lentil Soup,299,19,41,9
+2024-08-11,Avocado Toast (Whole Grain),423,10,43,15
+2024-08-11,Incline Walk Fuel Bar,204,16,39,7
+2024-08-11,Avocado Toast (Whole Grain),440,11,51,20
+2024-08-12,Mixed Nuts (Snack),178,8,8,17
+2024-08-12,Brown Rice + Veggies,359,8,65,9
+2024-08-12,Brown Rice + Veggies,379,8,64,4
+2024-08-12,Lentil Soup,351,15,51,8
+2024-08-12,Avocado Toast (Whole Grain),408,12,44,18
+2024-08-13,Brown Rice + Veggies,330,13,63,5
+2024-08-13,Post-Workout Rice Cakes,130,5,28,3
+2024-08-13,Incline Walk Fuel Bar,246,11,28,11
+2024-08-13,Protein Shake,159,31,14,2
+2024-08-14,Incline Walk Fuel Bar,214,10,34,10
+2024-08-14,Incline Walk Fuel Bar,253,11,35,11
+2024-08-14,Avocado Toast (Whole Grain),413,11,41,16
+2024-08-15,Egg White Omelette,219,26,11,6
+2024-08-15,Ground Turkey Bowl,435,44,48,14
+2024-08-15,Batch-cooked Chicken Breast,469,51,10,12
+2024-08-15,Ground Turkey Bowl,481,38,31,16
+2024-08-15,Egg White Omelette,260,21,11,6
+2024-08-16,Brown Rice + Veggies,383,9,56,9
+2024-08-16,Ground Turkey Bowl,497,42,44,18
+2024-08-16,Brown Rice + Veggies,382,11,73,7
+2024-08-16,Mixed Nuts (Snack),200,8,6,18
+2024-08-17,Egg White Omelette,260,28,5,7
+2024-08-17,Egg White Omelette,241,22,11,4
+2024-08-17,Greek Yogurt + Berries,205,21,22,4
+2024-08-17,Protein Shake,174,26,12,4
+2024-08-18,Ground Turkey Bowl,423,40,42,14
+2024-08-18,Batch-cooked Chicken Breast,475,45,13,6
+2024-08-18,Egg White Omelette,220,27,8,6
+2024-08-19,Egg White Omelette,265,23,8,5
+2024-08-19,Egg White Omelette,230,22,8,9
+2024-08-19,Protein Shake,169,33,13,3
+2024-08-19,Greek Yogurt + Berries,181,21,26,5
+2024-08-20,Batch-cooked Chicken Breast,430,45,11,13
+2024-08-20,Ground Turkey Bowl,450,40,49,15
+2024-08-20,Batch-cooked Chicken Breast,412,47,16,11
+2024-08-20,Batch-cooked Chicken Breast,399,44,17,7
+2024-08-20,Batch-cooked Chicken Breast,405,43,10,8
+2024-08-21,Lentil Soup,280,15,53,6
+2024-08-21,Cheeseburger + Fries,943,30,71,39
+2024-08-21,Lentil Soup,354,18,52,7
+2024-08-22,Incline Walk Fuel Bar,244,13,33,5
+2024-08-22,Greek Yogurt + Berries,180,20,27,4
+2024-08-22,Post-Workout Rice Cakes,148,6,35,2
+2024-08-23,Egg White Omelette,223,20,13,4
+2024-08-23,Mixed Nuts (Snack),185,7,11,16
+2024-08-23,Ground Turkey Bowl,460,38,39,17
+2024-08-24,Post-Workout Rice Cakes,159,4,27,1
+2024-08-24,Brown Rice + Veggies,387,11,63,8
+2024-08-24,Post-Workout Rice Cakes,137,6,27,1
+2024-08-24,Brown Rice + Veggies,326,13,64,6
+2024-08-25,Avocado Toast (Whole Grain),355,13,43,19
+2024-08-25,Avocado Toast (Whole Grain),392,10,47,15
+2024-08-25,Lentil Soup,359,18,49,8
+2024-08-25,Avocado Toast (Whole Grain),380,14,48,20
+2024-08-26,Cheeseburger + Fries,765,35,90,41
+2024-08-26,Cheeseburger + Fries,904,32,85,36
+2024-08-26,Mixed Nuts (Snack),191,7,9,17
+2024-08-27,Protein Shake,172,34,6,5
+2024-08-27,Protein Shake,162,26,7,2
+2024-08-27,Cheeseburger + Fries,772,34,75,34
+2024-08-27,Protein Shake,167,31,14,2
+2024-08-28,Greek Yogurt + Berries,246,19,22,3
+2024-08-28,Mixed Nuts (Snack),181,8,7,18
+2024-08-28,Incline Walk Fuel Bar,252,12,30,6
+2024-08-28,Egg White Omelette,257,22,7,8
+2024-08-28,Batch-cooked Chicken Breast,470,43,8,9
+2024-08-29,Egg White Omelette,278,28,10,7
+2024-08-29,Protein Shake,190,28,6,4
+2024-08-29,Egg White Omelette,287,24,10,6
+2024-08-30,Batch-cooked Chicken Breast,438,49,11,8
+2024-08-30,Ground Turkey Bowl,474,42,42,17
+2024-08-30,Ground Turkey Bowl,447,47,43,16
+2024-08-30,Egg White Omelette,279,28,6,5
+2024-08-30,Ground Turkey Bowl,426,45,30,14
+2024-08-31,Incline Walk Fuel Bar,210,15,32,8
+2024-08-31,Lentil Soup,357,15,47,9
+2024-08-31,Lentil Soup,309,21,52,6
+2024-08-31,Brown Rice + Veggies,371,11,61,5
+2024-09-01,Batch-cooked Chicken Breast,462,45,16,10
+2024-09-01,Egg White Omelette,242,28,6,4
+2024-09-01,Ground Turkey Bowl,456,42,43,15
+2024-09-01,Ground Turkey Bowl,427,44,31,11
+2024-09-02,Lentil Soup,338,21,43,10
+2024-09-02,Lentil Soup,362,15,40,10
+2024-09-02,Brown Rice + Veggies,345,11,66,6
+2024-09-02,Post-Workout Rice Cakes,150,5,26,2
+2024-09-03,Greek Yogurt + Berries,204,21,27,5
+2024-09-03,Brown Rice + Veggies,363,8,60,8
+2024-09-03,Greek Yogurt + Berries,215,20,30,7
+2024-09-03,Brown Rice + Veggies,327,8,67,5
+2024-09-03,Lentil Soup,332,21,43,10
+2024-09-04,Batch-cooked Chicken Breast,444,54,10,10
+2024-09-04,Protein Shake,189,26,6,2
+2024-09-04,Post-Workout Rice Cakes,147,5,34,2
+2024-09-05,Ground Turkey Bowl,487,46,30,14
+2024-09-05,Egg White Omelette,256,22,6,7
+2024-09-05,Egg White Omelette,207,29,6,7
+2024-09-05,Protein Shake,165,26,5,4
+2024-09-05,Egg White Omelette,295,24,5,7
+2024-09-06,Avocado Toast (Whole Grain),437,16,52,15
+2024-09-06,Avocado Toast (Whole Grain),408,11,45,15
+2024-09-06,Mixed Nuts (Snack),201,6,7,16
+2024-09-07,Brown Rice + Veggies,356,11,56,5
+2024-09-07,Greek Yogurt + Berries,242,17,24,5
+2024-09-07,Mixed Nuts (Snack),219,6,6,15
+2024-09-08,Batch-cooked Chicken Breast,423,45,8,10
+2024-09-08,Brown Rice + Veggies,360,12,66,5
+2024-09-08,Brown Rice + Veggies,366,9,64,6
+2024-09-08,Incline Walk Fuel Bar,228,10,30,6
+2024-09-09,Protein Shake,190,29,11,5
+2024-09-09,Greek Yogurt + Berries,196,16,29,3
+2024-09-09,Ground Turkey Bowl,471,42,34,17
+2024-09-09,Greek Yogurt + Berries,238,19,28,3
+2024-09-10,Egg White Omelette,216,29,5,4
+2024-09-10,Brown Rice + Veggies,321,13,59,6
+2024-09-10,Avocado Toast (Whole Grain),418,13,43,17
+2024-09-10,Post-Workout Rice Cakes,152,5,36,1
+2024-09-11,Post-Workout Rice Cakes,172,6,26,3
+2024-09-11,Brown Rice + Veggies,326,12,58,4
+2024-09-11,Avocado Toast (Whole Grain),375,15,46,16
+2024-09-12,Brown Rice + Veggies,341,14,66,7
+2024-09-12,Post-Workout Rice Cakes,161,4,31,3
+2024-09-12,Cheeseburger + Fries,747,37,82,35
+2024-09-12,Cheeseburger + Fries,914,32,73,44
+2024-09-13,Mixed Nuts (Snack),175,8,11,18
+2024-09-13,Incline Walk Fuel Bar,252,15,28,7
+2024-09-13,Greek Yogurt + Berries,181,17,27,5
+2024-09-13,Batch-cooked Chicken Breast,386,47,18,8
+2024-09-13,Brown Rice + Veggies,383,14,62,5
+2024-09-14,Ground Turkey Bowl,488,40,33,17
+2024-09-14,Protein Shake,165,30,10,4
+2024-09-14,Protein Shake,144,32,5,5
+2024-09-15,Ground Turkey Bowl,512,42,44,10
+2024-09-15,Greek Yogurt + Berries,180,16,21,7
+2024-09-15,Egg White Omelette,237,21,8,7
+2024-09-15,Batch-cooked Chicken Breast,470,49,18,7
+2024-09-15,Batch-cooked Chicken Breast,438,49,18,9
+2024-09-16,Cheeseburger + Fries,931,38,81,37
+2024-09-16,Avocado Toast (Whole Grain),429,15,41,17
+2024-09-16,Ground Turkey Bowl,484,45,40,18
+2024-09-16,Greek Yogurt + Berries,188,16,24,5
+2024-09-17,Egg White Omelette,202,22,12,7
+2024-09-17,Greek Yogurt + Berries,208,17,33,7
+2024-09-17,Protein Shake,141,34,14,5
+2024-09-17,Batch-cooked Chicken Breast,465,46,11,13
+2024-09-17,Egg White Omelette,269,29,10,7
+2024-09-18,Post-Workout Rice Cakes,179,3,29,1
+2024-09-18,Lentil Soup,305,19,44,9
+2024-09-18,Post-Workout Rice Cakes,149,6,32,1
+2024-09-18,Post-Workout Rice Cakes,168,5,37,1
+2024-09-19,Brown Rice + Veggies,334,10,63,7
+2024-09-19,Lentil Soup,280,16,51,10
+2024-09-19,Greek Yogurt + Berries,180,20,22,7
+2024-09-19,Mixed Nuts (Snack),198,5,11,15
+2024-09-19,Avocado Toast (Whole Grain),384,17,54,20
+2024-09-20,Avocado Toast (Whole Grain),369,13,48,15
+2024-09-20,Brown Rice + Veggies,347,11,65,7
+2024-09-20,Post-Workout Rice Cakes,130,6,30,2
+2024-09-21,Protein Shake,199,33,11,2
+2024-09-21,Mixed Nuts (Snack),168,6,7,14
+2024-09-21,Protein Shake,160,29,11,2
+2024-09-21,Cheeseburger + Fries,803,31,87,37
+2024-09-21,Cheeseburger + Fries,706,28,89,33
+2024-09-22,Batch-cooked Chicken Breast,398,53,14,7
+2024-09-22,Egg White Omelette,213,28,9,4
+2024-09-22,Avocado Toast (Whole Grain),382,12,51,17
+2024-09-22,Batch-cooked Chicken Breast,445,42,8,12
+2024-09-23,Post-Workout Rice Cakes,162,6,28,1
+2024-09-23,Lentil Soup,311,20,45,5
+2024-09-23,Lentil Soup,310,19,41,11
+2024-09-23,Avocado Toast (Whole Grain),394,12,42,18
+2024-09-23,Lentil Soup,343,17,52,9
+2024-09-24,Egg White Omelette,263,29,9,8
+2024-09-24,Protein Shake,167,34,8,3
+2024-09-24,Ground Turkey Bowl,489,49,41,19
+2024-09-24,Ground Turkey Bowl,519,38,41,10
+2024-09-24,Batch-cooked Chicken Breast,471,52,14,7
+2024-09-25,Protein Shake,154,27,8,3
+2024-09-25,Protein Shake,154,29,13,3
+2024-09-25,Protein Shake,141,32,5,5
+2024-09-26,Protein Shake,164,33,6,5
+2024-09-26,Incline Walk Fuel Bar,219,11,29,5
+2024-09-26,Avocado Toast (Whole Grain),356,12,51,14
+2024-09-27,Lentil Soup,316,20,47,11
+2024-09-27,Avocado Toast (Whole Grain),399,11,46,19
+2024-09-27,Lentil Soup,314,17,50,8
+2024-09-27,Lentil Soup,313,18,41,5
+2024-09-28,Protein Shake,170,29,13,4
+2024-09-28,Greek Yogurt + Berries,185,21,29,3
+2024-09-28,Ground Turkey Bowl,505,38,39,14
+2024-09-28,Egg White Omelette,225,20,7,7
+2024-09-29,Egg White Omelette,210,28,7,9
+2024-09-29,Protein Shake,192,25,13,4
+2024-09-29,Batch-cooked Chicken Breast,471,53,17,8
+2024-09-29,Batch-cooked Chicken Breast,404,46,12,13
+2024-09-30,Egg White Omelette,295,29,7,8
+2024-09-30,Ground Turkey Bowl,427,47,46,17
+2024-09-30,Batch-cooked Chicken Breast,396,53,18,12
+2024-09-30,Batch-cooked Chicken Breast,471,52,19,8
+2024-10-01,Greek Yogurt + Berries,235,17,24,4
+2024-10-01,Protein Shake,155,29,5,4
+2024-10-01,Egg White Omelette,239,29,12,4
+2024-10-02,Cheeseburger + Fries,804,34,70,47
+2024-10-02,Post-Workout Rice Cakes,159,5,35,1
+2024-10-02,Greek Yogurt + Berries,249,20,32,5
+2024-10-02,Brown Rice + Veggies,360,9,58,7
+2024-10-03,Post-Workout Rice Cakes,157,3,31,2
+2024-10-03,Incline Walk Fuel Bar,257,11,37,10
+2024-10-03,Lentil Soup,360,18,52,10
+2024-10-04,Protein Shake,162,26,9,2
+2024-10-04,Mixed Nuts (Snack),211,6,7,13
+2024-10-04,Protein Shake,175,30,10,4
+2024-10-05,Cheeseburger + Fries,892,32,76,39
+2024-10-05,Protein Shake,182,30,8,3
+2024-10-05,Mixed Nuts (Snack),204,6,6,17
+2024-10-05,Mixed Nuts (Snack),217,8,7,18
+2024-10-05,Cheeseburger + Fries,769,32,93,37
+2024-10-06,Post-Workout Rice Cakes,136,4,35,1
+2024-10-06,Protein Shake,176,27,10,3
+2024-10-06,Ground Turkey Bowl,423,45,36,18
+2024-10-07,Ground Turkey Bowl,483,38,32,16
+2024-10-07,Greek Yogurt + Berries,217,15,29,7
+2024-10-07,Egg White Omelette,226,21,14,5
+2024-10-07,Egg White Omelette,207,26,12,4
+2024-10-07,Egg White Omelette,280,27,9,5
+2024-10-08,Ground Turkey Bowl,498,45,45,17
+2024-10-08,Greek Yogurt + Berries,242,16,29,6
+2024-10-08,Egg White Omelette,292,20,13,4
+2024-10-08,Ground Turkey Bowl,476,41,48,11
+2024-10-09,Mixed Nuts (Snack),179,5,7,13
+2024-10-09,Post-Workout Rice Cakes,121,3,36,3
+2024-10-09,Egg White Omelette,268,24,14,4
+2024-10-09,Egg White Omelette,286,29,11,9
+2024-10-10,Ground Turkey Bowl,435,49,38,18
+2024-10-10,Protein Shake,195,29,10,5
+2024-10-10,Greek Yogurt + Berries,224,20,26,4
+2024-10-11,Batch-cooked Chicken Breast,389,48,17,12
+2024-10-11,Greek Yogurt + Berries,192,20,20,6
+2024-10-11,Brown Rice + Veggies,381,13,72,7
+2024-10-12,Cheeseburger + Fries,812,33,74,46
+2024-10-12,Mixed Nuts (Snack),211,7,6,13
+2024-10-12,Mixed Nuts (Snack),218,8,10,15
+2024-10-13,Batch-cooked Chicken Breast,442,53,12,8
+2024-10-13,Greek Yogurt + Berries,235,16,28,4
+2024-10-13,Ground Turkey Bowl,423,42,31,14
+2024-10-13,Egg White Omelette,233,29,9,9
+2024-10-14,Lentil Soup,312,19,43,5
+2024-10-14,Post-Workout Rice Cakes,176,5,30,1
+2024-10-14,Brown Rice + Veggies,385,8,66,5
+2024-10-14,Incline Walk Fuel Bar,233,13,38,9
+2024-10-14,Post-Workout Rice Cakes,164,4,28,3
+2024-10-15,Brown Rice + Veggies,329,13,67,6
+2024-10-15,Incline Walk Fuel Bar,200,14,37,11
+2024-10-15,Lentil Soup,303,20,44,10
+2024-10-16,Greek Yogurt + Berries,227,19,33,5
+2024-10-16,Greek Yogurt + Berries,227,18,32,4
+2024-10-16,Mixed Nuts (Snack),199,6,6,13
+2024-10-16,Brown Rice + Veggies,376,13,71,7
+2024-10-17,Mixed Nuts (Snack),186,5,8,13
+2024-10-17,Protein Shake,157,28,14,3
+2024-10-17,Ground Turkey Bowl,509,45,38,15
+2024-10-18,Incline Walk Fuel Bar,211,11,39,8
+2024-10-18,Mixed Nuts (Snack),187,7,11,15
+2024-10-18,Protein Shake,177,32,14,5
+2024-10-18,Brown Rice + Veggies,387,14,61,8
+2024-10-18,Greek Yogurt + Berries,212,21,20,6
+2024-10-19,Cheeseburger + Fries,947,33,89,40
+2024-10-19,Cheeseburger + Fries,844,38,76,39
+2024-10-19,Protein Shake,142,34,10,5
+2024-10-19,Mixed Nuts (Snack),174,6,11,17
+2024-10-20,Ground Turkey Bowl,518,49,35,16
+2024-10-20,Ground Turkey Bowl,431,43,42,12
+2024-10-20,Protein Shake,190,34,12,4
+2024-10-20,Protein Shake,178,33,7,3
+2024-10-21,Cheeseburger + Fries,807,39,78,41
+2024-10-21,Mixed Nuts (Snack),162,7,6,14
+2024-10-21,Protein Shake,166,28,12,5
+2024-10-22,Mixed Nuts (Snack),205,6,8,18
+2024-10-22,Brown Rice + Veggies,374,9,70,6
+2024-10-22,Avocado Toast (Whole Grain),392,13,41,16
+2024-10-22,Avocado Toast (Whole Grain),368,17,45,14
+2024-10-23,Avocado Toast (Whole Grain),361,11,51,18
+2024-10-23,Brown Rice + Veggies,304,8,70,7
+2024-10-23,Avocado Toast (Whole Grain),377,16,45,17
+2024-10-23,Incline Walk Fuel Bar,229,11,34,7
+2024-10-23,Avocado Toast (Whole Grain),400,11,41,20
+2024-10-24,Mixed Nuts (Snack),201,8,6,18
+2024-10-24,Brown Rice + Veggies,388,13,65,7
+2024-10-24,Mixed Nuts (Snack),160,5,11,17
+2024-10-24,Greek Yogurt + Berries,186,20,33,6
+2024-10-24,Lentil Soup,332,20,47,11
+2024-10-25,Batch-cooked Chicken Breast,449,49,14,8
+2024-10-25,Protein Shake,149,33,10,4
+2024-10-25,Batch-cooked Chicken Breast,467,51,14,9
+2024-10-25,Greek Yogurt + Berries,184,21,20,6
+2024-10-26,Brown Rice + Veggies,320,12,69,6
+2024-10-26,Greek Yogurt + Berries,249,18,23,7
+2024-10-26,Mixed Nuts (Snack),167,8,6,17
+2024-10-26,Greek Yogurt + Berries,194,21,25,7
+2024-10-27,Cheeseburger + Fries,860,33,78,49
+2024-10-27,Protein Shake,155,34,8,4
+2024-10-27,Cheeseburger + Fries,851,31,78,32
+2024-10-27,Protein Shake,168,29,11,5
+2024-10-28,Lentil Soup,307,16,46,9
+2024-10-28,Lentil Soup,342,20,46,5
+2024-10-28,Lentil Soup,349,18,40,10
+2024-10-28,Brown Rice + Veggies,331,10,65,4
+2024-10-29,Brown Rice + Veggies,312,8,73,8
+2024-10-29,Lentil Soup,316,18,51,5
+2024-10-29,Avocado Toast (Whole Grain),391,11,43,18
+2024-10-29,Brown Rice + Veggies,331,8,63,5
+2024-10-30,Mixed Nuts (Snack),176,7,11,18
+2024-10-30,Mixed Nuts (Snack),186,8,6,15
+2024-10-30,Cheeseburger + Fries,789,30,78,41
+2024-10-31,Post-Workout Rice Cakes,164,3,27,3
+2024-10-31,Lentil Soup,287,19,42,9
+2024-10-31,Avocado Toast (Whole Grain),428,11,46,19
+2024-10-31,Post-Workout Rice Cakes,175,5,27,1
+2024-11-01,Brown Rice + Veggies,364,13,63,4
+2024-11-01,Brown Rice + Veggies,328,10,62,7
+2024-11-01,Mixed Nuts (Snack),180,8,7,14
+2024-11-01,Lentil Soup,344,15,48,9
+2024-11-01,Avocado Toast (Whole Grain),385,11,52,20
+2024-11-02,Batch-cooked Chicken Breast,432,54,9,10
+2024-11-02,Ground Turkey Bowl,470,43,38,10
+2024-11-02,Protein Shake,140,29,7,5
+2024-11-02,Greek Yogurt + Berries,245,18,28,5
+2024-11-02,Protein Shake,194,33,11,5
+2024-11-03,Egg White Omelette,224,28,8,8
+2024-11-03,Brown Rice + Veggies,330,12,67,9
+2024-11-03,Cheeseburger + Fries,715,39,91,47
+2024-11-03,Post-Workout Rice Cakes,172,5,37,2
+2024-11-03,Lentil Soup,305,19,41,8
+2024-11-04,Avocado Toast (Whole Grain),393,11,45,18
+2024-11-04,Lentil Soup,301,15,52,11
+2024-11-04,Greek Yogurt + Berries,249,15,26,4
+2024-11-05,Avocado Toast (Whole Grain),418,15,48,17
+2024-11-05,Lentil Soup,336,16,47,5
+2024-11-05,Brown Rice + Veggies,362,9,69,6
+2024-11-05,Lentil Soup,345,16,44,9
+2024-11-06,Mixed Nuts (Snack),175,6,10,17
+2024-11-06,Lentil Soup,335,16,47,10
+2024-11-06,Avocado Toast (Whole Grain),360,17,43,14
+2024-11-07,Batch-cooked Chicken Breast,456,47,15,9
+2024-11-07,Mixed Nuts (Snack),169,8,11,18
+2024-11-07,Protein Shake,165,29,11,4
+2024-11-07,Protein Shake,193,31,12,5
+2024-11-07,Avocado Toast (Whole Grain),421,15,51,15
+2024-11-08,Incline Walk Fuel Bar,266,16,29,10
+2024-11-08,Brown Rice + Veggies,372,13,60,8
+2024-11-08,Lentil Soup,336,15,49,11
+2024-11-08,Post-Workout Rice Cakes,120,4,34,2
+2024-11-08,Brown Rice + Veggies,329,12,64,9
+2024-11-09,Protein Shake,181,29,10,2
+2024-11-09,Ground Turkey Bowl,443,47,44,10
+2024-11-09,Ground Turkey Bowl,459,43,36,14
+2024-11-09,Greek Yogurt + Berries,249,21,28,5
+2024-11-10,Protein Shake,163,30,10,4
+2024-11-10,Greek Yogurt + Berries,187,20,21,7
+2024-11-10,Batch-cooked Chicken Breast,434,48,14,6
+2024-11-11,Ground Turkey Bowl,519,40,37,13
+2024-11-11,Protein Shake,190,30,7,4
+2024-11-11,Batch-cooked Chicken Breast,387,51,18,7
+2024-11-12,Greek Yogurt + Berries,243,21,32,6
+2024-11-12,Lentil Soup,294,15,41,10
+2024-11-12,Lentil Soup,373,15,50,7
+2024-11-13,Lentil Soup,370,21,50,10
+2024-11-13,Incline Walk Fuel Bar,234,11,30,9
+2024-11-13,Avocado Toast (Whole Grain),394,11,41,21
+2024-11-13,Avocado Toast (Whole Grain),432,15,46,16
+2024-11-13,Lentil Soup,293,20,51,7
+2024-11-14,Mixed Nuts (Snack),208,7,10,13
+2024-11-14,Incline Walk Fuel Bar,239,11,29,7
+2024-11-14,Mixed Nuts (Snack),187,8,6,17
+2024-11-14,Lentil Soup,283,20,50,6
+2024-11-15,Ground Turkey Bowl,454,48,43,12
+2024-11-15,Protein Shake,177,26,12,3
+2024-11-15,Ground Turkey Bowl,456,42,43,12
+2024-11-16,Egg White Omelette,203,27,7,6
+2024-11-16,Protein Shake,143,31,6,4
+2024-11-16,Greek Yogurt + Berries,225,19,22,7
+2024-11-16,Egg White Omelette,253,29,6,8
+2024-11-17,Ground Turkey Bowl,495,48,31,14
+2024-11-17,Egg White Omelette,282,29,11,6
+2024-11-17,Egg White Omelette,262,27,10,8
+2024-11-18,Ground Turkey Bowl,461,47,43,11
+2024-11-18,Protein Shake,141,30,9,4
+2024-11-18,Greek Yogurt + Berries,230,21,25,3
+2024-11-19,Brown Rice + Veggies,369,8,65,9
+2024-11-19,Lentil Soup,348,14,41,5
+2024-11-19,Lentil Soup,376,15,46,8
+2024-11-20,Protein Shake,177,29,9,2
+2024-11-20,Cheeseburger + Fries,706,38,79,37
+2024-11-20,Protein Shake,145,26,10,5
+2024-11-21,Brown Rice + Veggies,388,12,65,8
+2024-11-21,Lentil Soup,357,19,41,5
+2024-11-21,Avocado Toast (Whole Grain),370,15,43,14
+2024-11-22,Incline Walk Fuel Bar,277,16,35,5
+2024-11-22,Avocado Toast (Whole Grain),427,12,42,18
+2024-11-22,Lentil Soup,301,18,44,7
+2024-11-23,Avocado Toast (Whole Grain),355,10,52,17
+2024-11-23,Avocado Toast (Whole Grain),425,15,50,15
+2024-11-23,Greek Yogurt + Berries,235,15,28,3
+2024-11-23,Greek Yogurt + Berries,181,21,34,5
+2024-11-24,Lentil Soup,373,16,41,7
+2024-11-24,Mixed Nuts (Snack),205,7,11,14
+2024-11-24,Lentil Soup,334,16,41,11
+2024-11-24,Greek Yogurt + Berries,180,20,20,3
+2024-11-24,Lentil Soup,323,20,52,7
+2024-11-25,Protein Shake,159,30,6,5
+2024-11-25,Cheeseburger + Fries,930,39,81,41
+2024-11-25,Cheeseburger + Fries,845,29,93,36
+2024-11-26,Brown Rice + Veggies,302,10,63,8
+2024-11-26,Lentil Soup,375,19,46,5
+2024-11-26,Mixed Nuts (Snack),178,6,7,18
+2024-11-27,Lentil Soup,334,20,40,11
+2024-11-27,Greek Yogurt + Berries,249,16,22,3
+2024-11-27,Greek Yogurt + Berries,221,16,31,6
+2024-11-27,Lentil Soup,308,16,54,11
+2024-11-27,Mixed Nuts (Snack),182,6,6,17
+2024-11-28,Ground Turkey Bowl,491,40,44,10
+2024-11-28,Greek Yogurt + Berries,245,20,23,7
+2024-11-28,Batch-cooked Chicken Breast,476,54,8,13
+2024-11-28,Batch-cooked Chicken Breast,471,47,15,12
+2024-11-29,Incline Walk Fuel Bar,265,10,32,5
+2024-11-29,Brown Rice + Veggies,359,12,55,8
+2024-11-29,Protein Shake,170,31,6,3
+2024-11-30,Brown Rice + Veggies,373,11,74,8
+2024-11-30,Incline Walk Fuel Bar,207,10,39,10
+2024-11-30,Lentil Soup,377,21,43,5
+2024-11-30,Brown Rice + Veggies,382,11,63,6
+2024-11-30,Brown Rice + Veggies,362,8,55,6
+2024-12-01,Egg White Omelette,222,22,10,9
+2024-12-01,Egg White Omelette,264,28,14,8
+2024-12-01,Ground Turkey Bowl,477,39,41,12
+2024-12-02,Brown Rice + Veggies,393,14,62,5
+2024-12-02,Avocado Toast (Whole Grain),417,13,41,16
+2024-12-02,Greek Yogurt + Berries,234,21,33,3
+2024-12-03,Batch-cooked Chicken Breast,463,44,12,8
+2024-12-03,Greek Yogurt + Berries,248,19,27,6
+2024-12-03,Ground Turkey Bowl,475,45,34,11
+2024-12-03,Protein Shake,169,26,10,2
+2024-12-03,Batch-cooked Chicken Breast,450,45,8,9
+2024-12-04,Avocado Toast (Whole Grain),355,11,44,21
+2024-12-04,Egg White Omelette,251,27,8,9
+2024-12-04,Incline Walk Fuel Bar,230,10,31,11
+2024-12-04,Egg White Omelette,236,29,12,7
+2024-12-04,Protein Shake,187,33,6,4
+2024-12-05,Brown Rice + Veggies,366,12,57,5
+2024-12-05,Greek Yogurt + Berries,184,17,26,4
+2024-12-05,Mixed Nuts (Snack),160,5,9,15
+2024-12-05,Mixed Nuts (Snack),196,7,11,13
+2024-12-06,Greek Yogurt + Berries,244,18,25,3
+2024-12-06,Batch-cooked Chicken Breast,458,50,19,8
+2024-12-06,Protein Shake,143,34,12,4
+2024-12-06,Protein Shake,194,27,7,5
+2024-12-07,Cheeseburger + Fries,837,30,74,34
+2024-12-07,Mixed Nuts (Snack),194,8,7,16
+2024-12-07,Cheeseburger + Fries,746,30,83,38
+2024-12-07,Protein Shake,156,27,14,4
+2024-12-07,Cheeseburger + Fries,801,37,75,35
+2024-12-08,Greek Yogurt + Berries,229,21,31,7
+2024-12-08,Mixed Nuts (Snack),176,7,10,16
+2024-12-08,Avocado Toast (Whole Grain),361,15,54,16
+2024-12-09,Brown Rice + Veggies,363,11,58,6
+2024-12-09,Ground Turkey Bowl,451,40,30,10
+2024-12-09,Ground Turkey Bowl,501,40,38,10
+2024-12-10,Lentil Soup,365,19,47,8
+2024-12-10,Greek Yogurt + Berries,205,20,22,5
+2024-12-10,Mixed Nuts (Snack),171,5,9,15
+2024-12-10,Avocado Toast (Whole Grain),449,16,44,14
+2024-12-10,Lentil Soup,363,19,43,6
+2024-12-11,Greek Yogurt + Berries,219,20,27,5
+2024-12-11,Avocado Toast (Whole Grain),401,15,50,16
+2024-12-11,Mixed Nuts (Snack),189,6,10,18
+2024-12-11,Mixed Nuts (Snack),207,5,7,15
+2024-12-11,Brown Rice + Veggies,392,11,69,9
+2024-12-12,Batch-cooked Chicken Breast,472,51,15,12
+2024-12-12,Protein Shake,159,32,6,2
+2024-12-12,Batch-cooked Chicken Breast,416,49,8,12
+2024-12-12,Ground Turkey Bowl,437,45,46,15
+2024-12-13,Protein Shake,150,27,8,4
+2024-12-13,Mixed Nuts (Snack),201,6,8,15
+2024-12-13,Cheeseburger + Fries,784,30,89,39
+2024-12-13,Protein Shake,152,33,7,3
+2024-12-14,Ground Turkey Bowl,479,41,39,13
+2024-12-14,Batch-cooked Chicken Breast,389,45,16,13
+2024-12-14,Egg White Omelette,268,21,13,6
+2024-12-14,Batch-cooked Chicken Breast,429,44,18,6
+2024-12-14,Batch-cooked Chicken Breast,398,45,14,11
+2024-12-15,Lentil Soup,338,21,40,7
+2024-12-15,Avocado Toast (Whole Grain),381,16,46,17
+2024-12-15,Brown Rice + Veggies,393,8,68,4
+2024-12-15,Greek Yogurt + Berries,249,15,23,6
+2024-12-16,Brown Rice + Veggies,367,12,70,4
+2024-12-16,Lentil Soup,288,17,49,9
+2024-12-16,Mixed Nuts (Snack),203,5,10,17
+2024-12-17,Greek Yogurt + Berries,211,19,27,3
+2024-12-17,Avocado Toast (Whole Grain),363,11,54,19
+2024-12-17,Greek Yogurt + Berries,241,20,33,3
+2024-12-17,Lentil Soup,370,20,47,5
+2024-12-17,Mixed Nuts (Snack),174,5,8,13
+2024-12-18,Cheeseburger + Fries,860,30,88,33
+2024-12-18,Protein Shake,166,34,10,2
+2024-12-18,Mixed Nuts (Snack),165,7,8,15
+2024-12-19,Brown Rice + Veggies,300,9,67,8
+2024-12-19,Greek Yogurt + Berries,206,19,23,3
+2024-12-19,Brown Rice + Veggies,338,12,65,4
+2024-12-19,Greek Yogurt + Berries,214,21,25,4
+2024-12-19,Avocado Toast (Whole Grain),361,16,50,20
+2024-12-20,Batch-cooked Chicken Breast,435,47,15,9
+2024-12-20,Brown Rice + Veggies,397,14,70,5
+2024-12-20,Protein Shake,183,28,5,4
+2024-12-20,Post-Workout Rice Cakes,144,6,31,1
+2024-12-20,Post-Workout Rice Cakes,150,6,25,2
+2024-12-21,Incline Walk Fuel Bar,207,15,33,11
+2024-12-21,Lentil Soup,378,14,52,9
+2024-12-21,Avocado Toast (Whole Grain),431,17,41,17
+2024-12-21,Avocado Toast (Whole Grain),397,12,45,18
+2024-12-21,Post-Workout Rice Cakes,141,5,37,2
+2024-12-22,Lentil Soup,305,18,43,8
+2024-12-22,Brown Rice + Veggies,353,11,72,6
+2024-12-22,Lentil Soup,285,21,50,7
+2024-12-22,Mixed Nuts (Snack),215,5,6,15
+2024-12-23,Ground Turkey Bowl,435,41,33,10
+2024-12-23,Greek Yogurt + Berries,205,19,23,6
+2024-12-23,Egg White Omelette,268,26,11,6
+2024-12-23,Protein Shake,178,29,14,3
+2024-12-24,Lentil Soup,312,21,44,9
+2024-12-24,Incline Walk Fuel Bar,261,16,35,8
+2024-12-24,Brown Rice + Veggies,334,13,68,4
+2024-12-25,Protein Shake,162,33,5,2
+2024-12-25,Mixed Nuts (Snack),218,7,9,16
+2024-12-25,Mixed Nuts (Snack),199,7,7,16
+2024-12-25,Cheeseburger + Fries,758,32,80,31
+2024-12-26,Mixed Nuts (Snack),161,6,10,18
+2024-12-26,Greek Yogurt + Berries,191,21,33,4
+2024-12-26,Avocado Toast (Whole Grain),449,12,48,18
+2024-12-26,Lentil Soup,324,14,42,11
+2024-12-27,Brown Rice + Veggies,336,11,56,7
+2024-12-27,Post-Workout Rice Cakes,150,4,36,2
+2024-12-27,Lentil Soup,325,15,43,10
+2024-12-27,Brown Rice + Veggies,359,8,65,6
+2024-12-27,Incline Walk Fuel Bar,207,16,33,10
+2024-12-28,Post-Workout Rice Cakes,147,4,32,3
+2024-12-28,Post-Workout Rice Cakes,132,6,30,2
+2024-12-28,Brown Rice + Veggies,315,14,72,9
+2024-12-28,Lentil Soup,306,16,52,6
+2024-12-28,Lentil Soup,291,20,51,8
+2024-12-29,Greek Yogurt + Berries,209,18,21,7
+2024-12-29,Avocado Toast (Whole Grain),357,10,53,20
+2024-12-29,Mixed Nuts (Snack),212,7,6,15
+2024-12-30,Ground Turkey Bowl,515,42,43,12
+2024-12-30,Greek Yogurt + Berries,221,20,24,7
+2024-12-30,Protein Shake,176,30,9,5
+2024-12-30,Greek Yogurt + Berries,181,17,30,4

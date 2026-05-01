@@ -1,0 +1,366 @@
+full_date,workout_type,exercise_category,intensity,duration_minutes
+2024-01-01,Rest,Rest,1,0
+2024-01-02,Incline Walk,Cardio,7,46
+2024-01-03,Rest,Rest,1,0
+2024-01-04,Rest,Rest,1,0
+2024-01-05,Dumbbell Strength,Strength,7,42
+2024-01-06,Yoga / Stretch,Recovery,3,33
+2024-01-07,Rest,Rest,1,0
+2024-01-08,Rest,Rest,1,0
+2024-01-09,Dumbbell Strength,Strength,8,54
+2024-01-10,Incline Walk,Cardio,5,61
+2024-01-11,Incline Walk,Cardio,7,50
+2024-01-12,Yoga / Stretch,Recovery,3,40
+2024-01-13,HIIT,Cardio,8,51
+2024-01-14,Rest,Rest,1,0
+2024-01-15,Incline Walk,Cardio,7,59
+2024-01-16,Dumbbell Strength,Strength,8,20
+2024-01-17,HIIT,Cardio,9,39
+2024-01-18,Dumbbell Strength,Strength,8,20
+2024-01-19,Rest,Rest,1,0
+2024-01-20,HIIT,Cardio,9,65
+2024-01-21,Rest,Rest,1,0
+2024-01-22,Incline Walk,Cardio,5,34
+2024-01-23,Yoga / Stretch,Recovery,3,22
+2024-01-24,Rest,Rest,1,0
+2024-01-25,Rest,Rest,1,0
+2024-01-26,Dumbbell Strength,Strength,7,81
+2024-01-27,Incline Walk,Cardio,6,51
+2024-01-28,Dumbbell Strength,Strength,6,36
+2024-01-29,Dumbbell Strength,Strength,6,51
+2024-01-30,Rest,Rest,1,0
+2024-01-31,Rest,Rest,1,0
+2024-02-01,Yoga / Stretch,Recovery,2,46
+2024-02-02,Incline Walk,Cardio,7,43
+2024-02-03,Incline Walk,Cardio,5,56
+2024-02-04,Incline Walk,Cardio,5,50
+2024-02-05,Dumbbell Strength,Strength,8,55
+2024-02-06,Dumbbell Strength,Strength,7,34
+2024-02-07,Incline Walk,Cardio,6,58
+2024-02-08,Dumbbell Strength,Strength,8,69
+2024-02-09,Rest,Rest,1,0
+2024-02-10,Incline Walk,Cardio,6,31
+2024-02-11,Rest,Rest,1,0
+2024-02-12,Rest,Rest,1,0
+2024-02-13,Incline Walk,Cardio,5,66
+2024-02-14,Rest,Rest,1,0
+2024-02-15,Rest,Rest,1,0
+2024-02-16,Incline Walk,Cardio,7,46
+2024-02-17,Incline Walk,Cardio,5,48
+2024-02-18,Rest,Rest,1,0
+2024-02-19,Dumbbell Strength,Strength,7,39
+2024-02-20,Dumbbell Strength,Strength,8,30
+2024-02-21,Dumbbell Strength,Strength,8,38
+2024-02-22,Rest,Rest,1,0
+2024-02-23,Rest,Rest,1,0
+2024-02-24,Rest,Rest,1,0
+2024-02-25,Rest,Rest,1,0
+2024-02-26,Incline Walk,Cardio,6,62
+2024-02-27,HIIT,Cardio,9,20
+2024-02-28,Dumbbell Strength,Strength,7,33
+2024-02-29,Dumbbell Strength,Strength,7,20
+2024-03-01,Rest,Rest,1,0
+2024-03-02,Incline Walk,Cardio,5,48
+2024-03-03,HIIT,Cardio,8,42
+2024-03-04,Rest,Rest,1,0
+2024-03-05,HIIT,Cardio,9,42
+2024-03-06,HIIT,Cardio,9,48
+2024-03-07,HIIT,Cardio,8,29
+2024-03-08,Incline Walk,Cardio,7,55
+2024-03-09,Dumbbell Strength,Strength,8,54
+2024-03-10,Incline Walk,Cardio,7,50
+2024-03-11,Dumbbell Strength,Strength,7,53
+2024-03-12,Incline Walk,Cardio,5,49
+2024-03-13,Rest,Rest,1,0
+2024-03-14,Dumbbell Strength,Strength,6,43
+2024-03-15,Dumbbell Strength,Strength,8,40
+2024-03-16,Incline Walk,Cardio,7,33
+2024-03-17,Incline Walk,Cardio,6,29
+2024-03-18,Rest,Rest,1,0
+2024-03-19,HIIT,Cardio,8,31
+2024-03-20,Rest,Rest,1,0
+2024-03-21,Rest,Rest,1,0
+2024-03-22,Incline Walk,Cardio,5,45
+2024-03-23,Rest,Rest,1,0
+2024-03-24,Dumbbell Strength,Strength,7,58
+2024-03-25,Dumbbell Strength,Strength,7,56
+2024-03-26,Dumbbell Strength,Strength,6,42
+2024-03-27,Rest,Rest,1,0
+2024-03-28,Incline Walk,Cardio,7,53
+2024-03-29,Dumbbell Strength,Strength,7,47
+2024-03-30,HIIT,Cardio,8,23
+2024-03-31,Dumbbell Strength,Strength,6,43
+2024-04-01,Rest,Rest,1,0
+2024-04-02,Incline Walk,Cardio,6,31
+2024-04-03,Incline Walk,Cardio,7,47
+2024-04-04,Incline Walk,Cardio,7,23
+2024-04-05,HIIT,Cardio,8,65
+2024-04-06,Incline Walk,Cardio,5,63
+2024-04-07,Dumbbell Strength,Strength,8,41
+2024-04-08,Dumbbell Strength,Strength,7,50
+2024-04-09,Yoga / Stretch,Recovery,2,20
+2024-04-10,Yoga / Stretch,Recovery,2,27
+2024-04-11,Rest,Rest,1,0
+2024-04-12,Incline Walk,Cardio,5,28
+2024-04-13,Yoga / Stretch,Recovery,2,55
+2024-04-14,Rest,Rest,1,0
+2024-04-15,Rest,Rest,1,0
+2024-04-16,Incline Walk,Cardio,6,32
+2024-04-17,Incline Walk,Cardio,7,48
+2024-04-18,Dumbbell Strength,Strength,8,69
+2024-04-19,Yoga / Stretch,Recovery,3,26
+2024-04-20,Incline Walk,Cardio,6,48
+2024-04-21,Dumbbell Strength,Strength,6,72
+2024-04-22,Incline Walk,Cardio,6,20
+2024-04-23,HIIT,Cardio,9,25
+2024-04-24,Dumbbell Strength,Strength,6,38
+2024-04-25,Rest,Rest,1,0
+2024-04-26,Rest,Rest,1,0
+2024-04-27,Rest,Rest,1,0
+2024-04-28,Incline Walk,Cardio,7,20
+2024-04-29,HIIT,Cardio,9,52
+2024-04-30,HIIT,Cardio,8,36
+2024-05-01,HIIT,Cardio,9,64
+2024-05-02,Dumbbell Strength,Strength,8,35
+2024-05-03,Incline Walk,Cardio,5,35
+2024-05-04,Dumbbell Strength,Strength,6,53
+2024-05-05,Incline Walk,Cardio,6,56
+2024-05-06,Incline Walk,Cardio,7,51
+2024-05-07,Dumbbell Strength,Strength,6,20
+2024-05-08,Dumbbell Strength,Strength,7,53
+2024-05-09,HIIT,Cardio,8,29
+2024-05-10,Dumbbell Strength,Strength,7,48
+2024-05-11,Yoga / Stretch,Recovery,3,23
+2024-05-12,HIIT,Cardio,8,51
+2024-05-13,Incline Walk,Cardio,7,32
+2024-05-14,HIIT,Cardio,9,25
+2024-05-15,Dumbbell Strength,Strength,8,55
+2024-05-16,Yoga / Stretch,Recovery,2,48
+2024-05-17,Incline Walk,Cardio,5,35
+2024-05-18,Rest,Rest,1,0
+2024-05-19,Dumbbell Strength,Strength,6,38
+2024-05-20,Incline Walk,Cardio,6,45
+2024-05-21,Incline Walk,Cardio,5,49
+2024-05-22,Yoga / Stretch,Recovery,3,35
+2024-05-23,HIIT,Cardio,9,52
+2024-05-24,Incline Walk,Cardio,7,36
+2024-05-25,Incline Walk,Cardio,5,38
+2024-05-26,Incline Walk,Cardio,5,65
+2024-05-27,HIIT,Cardio,9,29
+2024-05-28,Incline Walk,Cardio,5,20
+2024-05-29,Dumbbell Strength,Strength,7,69
+2024-05-30,Rest,Rest,1,0
+2024-05-31,Rest,Rest,1,0
+2024-06-01,Dumbbell Strength,Strength,8,20
+2024-06-02,HIIT,Cardio,8,40
+2024-06-03,Dumbbell Strength,Strength,6,40
+2024-06-04,Rest,Rest,1,0
+2024-06-05,Incline Walk,Cardio,5,28
+2024-06-06,Rest,Rest,1,0
+2024-06-07,Rest,Rest,1,0
+2024-06-08,Rest,Rest,1,0
+2024-06-09,Dumbbell Strength,Strength,6,55
+2024-06-10,Yoga / Stretch,Recovery,2,75
+2024-06-11,Dumbbell Strength,Strength,8,47
+2024-06-12,Dumbbell Strength,Strength,7,39
+2024-06-13,HIIT,Cardio,9,42
+2024-06-14,Incline Walk,Cardio,7,54
+2024-06-15,Rest,Rest,1,0
+2024-06-16,Rest,Rest,1,0
+2024-06-17,Incline Walk,Cardio,7,39
+2024-06-18,Yoga / Stretch,Recovery,2,72
+2024-06-19,Incline Walk,Cardio,5,42
+2024-06-20,HIIT,Cardio,9,70
+2024-06-21,Incline Walk,Cardio,5,28
+2024-06-22,Yoga / Stretch,Recovery,2,53
+2024-06-23,Dumbbell Strength,Strength,8,49
+2024-06-24,Dumbbell Strength,Strength,8,31
+2024-06-25,Incline Walk,Cardio,7,47
+2024-06-26,Yoga / Stretch,Recovery,3,63
+2024-06-27,Rest,Rest,1,0
+2024-06-28,Rest,Rest,1,0
+2024-06-29,Rest,Rest,1,0
+2024-06-30,Rest,Rest,1,0
+2024-07-01,HIIT,Cardio,8,39
+2024-07-02,Incline Walk,Cardio,7,43
+2024-07-03,Rest,Rest,1,0
+2024-07-04,Rest,Rest,1,0
+2024-07-05,Incline Walk,Cardio,7,52
+2024-07-06,Dumbbell Strength,Strength,8,37
+2024-07-07,Rest,Rest,1,0
+2024-07-08,Incline Walk,Cardio,7,56
+2024-07-09,Yoga / Stretch,Recovery,3,49
+2024-07-10,Dumbbell Strength,Strength,7,34
+2024-07-11,Dumbbell Strength,Strength,6,25
+2024-07-12,Rest,Rest,1,0
+2024-07-13,Dumbbell Strength,Strength,7,50
+2024-07-14,Dumbbell Strength,Strength,6,80
+2024-07-15,HIIT,Cardio,8,51
+2024-07-16,Rest,Rest,1,0
+2024-07-17,Dumbbell Strength,Strength,6,42
+2024-07-18,Incline Walk,Cardio,7,57
+2024-07-19,Rest,Rest,1,0
+2024-07-20,Yoga / Stretch,Recovery,3,63
+2024-07-21,HIIT,Cardio,9,37
+2024-07-22,Dumbbell Strength,Strength,8,38
+2024-07-23,Dumbbell Strength,Strength,7,37
+2024-07-24,Dumbbell Strength,Strength,7,56
+2024-07-25,Dumbbell Strength,Strength,6,67
+2024-07-26,Rest,Rest,1,0
+2024-07-27,Dumbbell Strength,Strength,8,38
+2024-07-28,HIIT,Cardio,8,49
+2024-07-29,Rest,Rest,1,0
+2024-07-30,HIIT,Cardio,8,59
+2024-07-31,Dumbbell Strength,Strength,8,20
+2024-08-01,Rest,Rest,1,0
+2024-08-02,Rest,Rest,1,0
+2024-08-03,Rest,Rest,1,0
+2024-08-04,Dumbbell Strength,Strength,8,30
+2024-08-05,Dumbbell Strength,Strength,6,31
+2024-08-06,Yoga / Stretch,Recovery,2,41
+2024-08-07,Incline Walk,Cardio,5,61
+2024-08-08,Incline Walk,Cardio,5,41
+2024-08-09,Incline Walk,Cardio,5,29
+2024-08-10,Rest,Rest,1,0
+2024-08-11,Yoga / Stretch,Recovery,3,60
+2024-08-12,Incline Walk,Cardio,6,30
+2024-08-13,Yoga / Stretch,Recovery,3,31
+2024-08-14,Dumbbell Strength,Strength,8,53
+2024-08-15,HIIT,Cardio,9,41
+2024-08-16,HIIT,Cardio,9,54
+2024-08-17,Dumbbell Strength,Strength,6,44
+2024-08-18,Dumbbell Strength,Strength,6,55
+2024-08-19,Incline Walk,Cardio,6,29
+2024-08-20,Yoga / Stretch,Recovery,2,44
+2024-08-21,HIIT,Cardio,8,41
+2024-08-22,Yoga / Stretch,Recovery,2,26
+2024-08-23,Rest,Rest,1,0
+2024-08-24,Incline Walk,Cardio,7,55
+2024-08-25,Rest,Rest,1,0
+2024-08-26,Dumbbell Strength,Strength,7,29
+2024-08-27,Dumbbell Strength,Strength,8,43
+2024-08-28,Rest,Rest,1,0
+2024-08-29,Rest,Rest,1,0
+2024-08-30,Dumbbell Strength,Strength,7,22
+2024-08-31,HIIT,Cardio,8,31
+2024-09-01,HIIT,Cardio,8,66
+2024-09-02,Rest,Rest,1,0
+2024-09-03,HIIT,Cardio,8,56
+2024-09-04,Incline Walk,Cardio,7,27
+2024-09-05,Incline Walk,Cardio,5,28
+2024-09-06,Incline Walk,Cardio,6,51
+2024-09-07,Rest,Rest,1,0
+2024-09-08,Rest,Rest,1,0
+2024-09-09,Incline Walk,Cardio,7,42
+2024-09-10,Dumbbell Strength,Strength,7,49
+2024-09-11,Dumbbell Strength,Strength,7,47
+2024-09-12,Rest,Rest,1,0
+2024-09-13,Rest,Rest,1,0
+2024-09-14,Dumbbell Strength,Strength,7,20
+2024-09-15,Dumbbell Strength,Strength,8,20
+2024-09-16,HIIT,Cardio,8,60
+2024-09-17,Dumbbell Strength,Strength,7,62
+2024-09-18,Rest,Rest,1,0
+2024-09-19,Incline Walk,Cardio,7,20
+2024-09-20,Dumbbell Strength,Strength,7,46
+2024-09-21,Yoga / Stretch,Recovery,2,58
+2024-09-22,Dumbbell Strength,Strength,6,71
+2024-09-23,Incline Walk,Cardio,5,52
+2024-09-24,Dumbbell Strength,Strength,8,39
+2024-09-25,Dumbbell Strength,Strength,7,31
+2024-09-26,Dumbbell Strength,Strength,6,45
+2024-09-27,Dumbbell Strength,Strength,7,40
+2024-09-28,Dumbbell Strength,Strength,7,29
+2024-09-29,Dumbbell Strength,Strength,7,75
+2024-09-30,HIIT,Cardio,9,71
+2024-10-01,Rest,Rest,1,0
+2024-10-02,Incline Walk,Cardio,5,31
+2024-10-03,Incline Walk,Cardio,6,57
+2024-10-04,HIIT,Cardio,8,54
+2024-10-05,Rest,Rest,1,0
+2024-10-06,Rest,Rest,1,0
+2024-10-07,Dumbbell Strength,Strength,8,54
+2024-10-08,Dumbbell Strength,Strength,6,56
+2024-10-09,Dumbbell Strength,Strength,6,54
+2024-10-10,Dumbbell Strength,Strength,7,50
+2024-10-11,HIIT,Cardio,9,20
+2024-10-12,Incline Walk,Cardio,7,46
+2024-10-13,Dumbbell Strength,Strength,7,36
+2024-10-14,Incline Walk,Cardio,7,25
+2024-10-15,HIIT,Cardio,8,70
+2024-10-16,Dumbbell Strength,Strength,6,70
+2024-10-17,Rest,Rest,1,0
+2024-10-18,Dumbbell Strength,Strength,6,48
+2024-10-19,Yoga / Stretch,Recovery,3,65
+2024-10-20,Dumbbell Strength,Strength,6,45
+2024-10-21,Rest,Rest,1,0
+2024-10-22,Yoga / Stretch,Recovery,3,28
+2024-10-23,Yoga / Stretch,Recovery,2,50
+2024-10-24,Rest,Rest,1,0
+2024-10-25,Rest,Rest,1,0
+2024-10-26,HIIT,Cardio,8,44
+2024-10-27,Rest,Rest,1,0
+2024-10-28,Dumbbell Strength,Strength,6,71
+2024-10-29,HIIT,Cardio,9,58
+2024-10-30,HIIT,Cardio,8,45
+2024-10-31,Rest,Rest,1,0
+2024-11-01,Incline Walk,Cardio,7,45
+2024-11-02,Incline Walk,Cardio,6,41
+2024-11-03,HIIT,Cardio,8,28
+2024-11-04,Incline Walk,Cardio,6,42
+2024-11-05,Dumbbell Strength,Strength,8,33
+2024-11-06,Incline Walk,Cardio,6,26
+2024-11-07,Incline Walk,Cardio,5,52
+2024-11-08,Dumbbell Strength,Strength,7,50
+2024-11-09,Incline Walk,Cardio,7,20
+2024-11-10,Incline Walk,Cardio,5,43
+2024-11-11,Incline Walk,Cardio,7,59
+2024-11-12,Incline Walk,Cardio,6,60
+2024-11-13,Rest,Rest,1,0
+2024-11-14,Incline Walk,Cardio,6,45
+2024-11-15,Yoga / Stretch,Recovery,2,32
+2024-11-16,Yoga / Stretch,Recovery,3,28
+2024-11-17,Incline Walk,Cardio,5,50
+2024-11-18,Incline Walk,Cardio,5,50
+2024-11-19,HIIT,Cardio,8,64
+2024-11-20,Rest,Rest,1,0
+2024-11-21,Rest,Rest,1,0
+2024-11-22,Rest,Rest,1,0
+2024-11-23,HIIT,Cardio,8,40
+2024-11-24,HIIT,Cardio,8,48
+2024-11-25,Incline Walk,Cardio,5,41
+2024-11-26,Rest,Rest,1,0
+2024-11-27,Dumbbell Strength,Strength,6,48
+2024-11-28,Rest,Rest,1,0
+2024-11-29,Rest,Rest,1,0
+2024-11-30,Dumbbell Strength,Strength,6,49
+2024-12-01,HIIT,Cardio,9,38
+2024-12-02,Dumbbell Strength,Strength,7,48
+2024-12-03,Rest,Rest,1,0
+2024-12-04,Dumbbell Strength,Strength,7,27
+2024-12-05,Yoga / Stretch,Recovery,3,37
+2024-12-06,Dumbbell Strength,Strength,8,66
+2024-12-07,Yoga / Stretch,Recovery,3,27
+2024-12-08,Rest,Rest,1,0
+2024-12-09,HIIT,Cardio,9,20
+2024-12-10,Rest,Rest,1,0
+2024-12-11,Rest,Rest,1,0
+2024-12-12,Yoga / Stretch,Recovery,3,43
+2024-12-13,Incline Walk,Cardio,6,63
+2024-12-14,HIIT,Cardio,9,20
+2024-12-15,Dumbbell Strength,Strength,6,50
+2024-12-16,HIIT,Cardio,8,68
+2024-12-17,Dumbbell Strength,Strength,8,28
+2024-12-18,HIIT,Cardio,8,39
+2024-12-19,HIIT,Cardio,9,33
+2024-12-20,Incline Walk,Cardio,5,31
+2024-12-21,HIIT,Cardio,8,40
+2024-12-22,Rest,Rest,1,0
+2024-12-23,Rest,Rest,1,0
+2024-12-24,Incline Walk,Cardio,6,39
+2024-12-25,HIIT,Cardio,9,73
+2024-12-26,Yoga / Stretch,Recovery,3,45
+2024-12-27,Dumbbell Strength,Strength,7,71
+2024-12-28,Dumbbell Strength,Strength,8,43
+2024-12-29,Dumbbell Strength,Strength,7,46
+2024-12-30,Rest,Rest,1,0
